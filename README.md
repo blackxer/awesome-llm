@@ -39,3 +39,6 @@
 #### 在线demo
 - https://www.codewithgpu.com/i/app/BlinkDL/ChatRWKV/RWKV-4-Raven-7B?time=1685500437228
 - https://huggingface.co/spaces/ClueAI/ChatYuan-large-v2
+
+#### 低硬件资源微调
+- QLoRA：https://zhuanlan.zhihu.com/p/632287465
