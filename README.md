@@ -3,6 +3,8 @@
 
 #### 中文模型
 - ChatGLM-6B：https://github.com/THUDM/ChatGLM-6B
+- ChatGLM2-6B(商用)：https://github.com/THUDM/ChatGLM2-6B
+- baichuan-7B(商用)：https://github.com/baichuan-inc/baichuan-7B
 - moss(商用)：https://github.com/OpenLMLab/MOSS
 - Chinese-LLaMA-Alpaca：https://github.com/ymcui/Chinese-LLaMA-Alpaca
 - Chinese-Vicuna：https://github.com/Facico/Chinese-Vicuna
@@ -35,6 +37,7 @@
 #### llm 中文评测数据集
 - C-Eval：https://github.com/SJTU-LIT/ceval
 - M3KE：https://github.com/tjunlp-lab/M3KE
+- CMMLU：https://github.com/haonan-li/CMMLU
 
 #### 在线demo
 - https://www.codewithgpu.com/i/app/BlinkDL/ChatRWKV/RWKV-4-Raven-7B?time=1685500437228
