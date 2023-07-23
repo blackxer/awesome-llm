@@ -15,6 +15,7 @@
 - Dolly(商用)：https://github.com/databrickslabs/dolly
 - ChatRWKV(商用)：https://github.com/BlinkDL/ChatRWKV
 - MPT-7B(商用)：https://www.mosaicml.com/blog/mpt-7b
+- InternLM(商用)：https://github.com/InternLM/InternLM
 #### 商用模型
 - https://github.com/eugeneyan/open-llms
 
