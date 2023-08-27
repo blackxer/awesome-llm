@@ -1,6 +1,7 @@
 # 论文资源
 
 #### 模型训练
+- [ ] Stack More Layers Differently:High-Rank Training Through Low-Rank Updates (ReLoRA)【[paper](https://arxiv.org/abs/2307.05695)】【[code](https://github.com/guitaricet/peft_pretraining)】【2023】
 - [x] MEASURING THE INTRINSIC DIMENSION OF OBJECTIVE LANDSCAPES 【[论文](https://arxiv.org/pdf/1804.08838.pdf)】
 - [x] INTRINSIC DIMENSIONALITY EXPLAINS THE EFFECTIVENESS OF LANGUAGE MODEL FINE-TUNING 【[论文](https://arxiv.org/pdf/2012.13255.pdf)】
 - [x] LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS 【[论文](https://arxiv.org/pdf/2106.09685.pdf)】【[代码](https://github.com/microsoft/LoRA)】
