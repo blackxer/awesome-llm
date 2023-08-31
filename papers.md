@@ -13,7 +13,7 @@
 
 #### 思维链推理
 - [ ] Graph of Thoughts: Solving Elaborate Problems with Large Language Models (GoT)【[paper](https://arxiv.org/pdf/2308.09687v2.pdf)】【[code](https://github.com/spcl/graph-of-thoughts)】【2023】
-- [ ] Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework【[paper](https://arxiv.org/abs/2305.03268)】【[code](https://github.com/RuochenZhao/Verify-and-Edit)】【2023】
+- [x] Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework【[paper](https://arxiv.org/abs/2305.03268)】【[code](https://github.com/RuochenZhao/Verify-and-Edit)】【2023】
 - [x] Tree of thoughts: Deliberate problem solving with large language models (ToT)【[paper](https://arxiv.org/pdf/2305.10601.pdf)】【[code](https://github.com/princeton-nlp/tree-of-thought-llm)】【2023】
 - [x] Large language model guided tree-of-thought (ToT)【[paper](https://arxiv.org/pdf/2305.08291.pdf)】【[code](https://github.com/jieyilong/tree-of-thought-puzzle-solver)】【2023】
 - [x] React: Synergizing reasoning and acting in language models【[paper](https://arxiv.org/abs/2210.03629)】【[code](https://github.com/ysymyth/ReAct)】【2023】
