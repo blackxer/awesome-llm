@@ -26,3 +26,18 @@
 
 #### 指令数据集生成
 - [x] Large language models are human-level prompt engineers【[paper](https://arxiv.org/pdf/2211.01910.pdf)】【[code](https://github.com/keirp/automatic_prompt_engineer)】【2023】
+- [x] Self-Alignment with Instruction Backtranslation【[paper](https://arxiv.org/abs/2308.06259)】【2023】
+- [ ] WizardLM: Empowering Large Language Models to Follow Complex Instructions【[paper](https://arxiv.org/abs/2304.12244)】【2023】
+- [ ] LongForm: Optimizing Instruction Tuning for Long Text Generation with Corpus Extraction【[paper](https://arxiv.org/abs/2304.08460)】【2023】
+- [ ] Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision【[paper](https://arxiv.org/abs/2305.03047)】【2023】
+- [ ] LIMA: Less Is More for Alignment【[paper](https://arxiv.org/abs/2305.11206)】【2023】
+- [ ] AlpaGasus: Training A Better Alpaca with Fewer Data【[paper](https://arxiv.org/abs/2307.08701)】【2023】
+- [ ] Stanford alpaca: An instruction-following llama model【[code](https://github.com/tatsu-lab/stanford_alpaca#data-generation-process)】【2023】
+- [ ] Instruction Tuning with GPT-4【[paper](https://arxiv.org/abs/2304.03277)】【2023】
+- [ ] Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality【[paper](https://lmsys.org/blog/2023-03-30-vicuna/)】【2023】
+- [ ] Falcon-40B: an open large language model with state-of-the-art performance【[code](https://huggingface.co/tiiuae)】【2023】
+- [ ] OpenChat: Advancing Open-source Language Models with Imperfect Data【[code](https://github.com/imoneoi/openchat)】【2023】
+- [ ] OpenAssistant Conversations -- Democratizing Large Language Model Alignment【[paper](https://arxiv.org/abs/2304.07327)】【2023】
+- [ ] Training language models to follow instructions with human feedback(InstructGPT)【[paper](https://arxiv.org/abs/2203.02155)】【2022】
+- [ ] Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor【[paper](https://arxiv.org/abs/2212.09689)】【2022】
+- [ ] Self-Instruct: Aligning Language Models with Self-Generated Instructions【[paper](https://arxiv.org/abs/2212.10560)】【2022】
