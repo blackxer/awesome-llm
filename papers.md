@@ -1,13 +1,13 @@
 # 论文资源
 
 #### 大模型训练
-- [ ] Baichuan2【[paper](https://cdn.baichuan-ai.com/paper/Baichuan2-technical-report.pdf)】【[code](https://github.com/baichuan-inc/Baichuan2)】【2023】
+- [x] Baichuan2【[paper](https://cdn.baichuan-ai.com/paper/Baichuan2-technical-report.pdf)】【[code](https://github.com/baichuan-inc/Baichuan2)】【2023】
 - [x] llama2 【[论文](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)】【[代码](https://github.com/facebookresearch/llama)】【2023】
 - [x] llama【[论文](https://arxiv.org/pdf/2302.13971v1.pdf)】【[代码](https://github.com/facebookresearch/llama/tree/llama_v1)】【2023】
 - [x] opt 训练日志编年史【[Chronicles ](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/chronicles/README.md)】【2022】
 
 #### 轻量微调
-- [ ] Stack More Layers Differently:High-Rank Training Through Low-Rank Updates (ReLoRA)【[paper](https://arxiv.org/abs/2307.05695)】【[code](https://github.com/guitaricet/peft_pretraining)】【2023】
+- [x] Stack More Layers Differently:High-Rank Training Through Low-Rank Updates (ReLoRA)【[paper](https://arxiv.org/abs/2307.05695)】【[code](https://github.com/guitaricet/peft_pretraining)】【2023】
 - [x] QLORA: Efficient Finetuning of Quantized LLMs 【[论文](https://arxiv.org/pdf/2305.14314v1.pdf)】【[代码](https://github.com/artidoro/qlora)】【2023】
 - [x] LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS 【[论文](https://arxiv.org/pdf/2106.09685.pdf)】【[代码](https://github.com/microsoft/LoRA)】【2021】
 - [x] INTRINSIC DIMENSIONALITY EXPLAINS THE EFFECTIVENESS OF LANGUAGE MODEL FINE-TUNING 【[论文](https://arxiv.org/pdf/2012.13255.pdf)】【2020】
