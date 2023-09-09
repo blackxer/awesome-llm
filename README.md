@@ -39,6 +39,9 @@
 - C-Eval：https://github.com/SJTU-LIT/ceval
 - M3KE：https://github.com/tjunlp-lab/M3KE
 - CMMLU：https://github.com/haonan-li/CMMLU
+- LucyEval：https://github.com/Felixgithub2017/CG-Eval
+- FinEval：https://github.com/SUFE-AIFLM-Lab/FinEval/blob/main/README_zh-CN.md
+- CMB: A Comprehensive Medical Benchmark in Chinese：https://github.com/FreedomIntelligence/CMB
 
 #### 在线demo
 - https://www.codewithgpu.com/i/app/BlinkDL/ChatRWKV/RWKV-4-Raven-7B?time=1685500437228
