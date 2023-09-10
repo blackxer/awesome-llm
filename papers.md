@@ -1,10 +1,25 @@
 # 论文资源
 
 #### 大模型训练
+- [ ] 2x Faster Language Model Pre-training via Masked Structural Growth【[paper](https://arxiv.org/abs/2305.02869)】【2023】
+- [ ] Freelm: Fine-tuning-free language model【[paper](https://arxiv.org/abs/2305.01616)】【2023】
+- [ ] GPT-4 technical report【[paper](https://arxiv.org/abs/2303.08774)】【2023】
+- [ ] Research without Re-search: Maximal Update Parametrization Yields Accurate Loss Prediction across Scales【[paper](https://arxiv.org/abs/2304.06875)】【[code](https://github.com/
+cofe-ai/Mu-scaling)】【2023】
+- [x] FLM-101B: An Open LLM and How to Train It with $100K Budget【[paper](https://arxiv.org/pdf/2309.03852.pdf)】【[code](https://huggingface.co/CofeAI/FLM-101B)】【2023】
 - [x] Baichuan2【[paper](https://cdn.baichuan-ai.com/paper/Baichuan2-technical-report.pdf)】【[code](https://github.com/baichuan-inc/Baichuan2)】【2023】
 - [x] llama2 【[论文](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)】【[代码](https://github.com/facebookresearch/llama)】【2023】
 - [x] llama【[论文](https://arxiv.org/pdf/2302.13971v1.pdf)】【[代码](https://github.com/facebookresearch/llama/tree/llama_v1)】【2023】
 - [x] opt 训练日志编年史【[Chronicles ](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/chronicles/README.md)】【2022】
+- [ ] Training Compute-Optimal Large Language Models【[paper](https://arxiv.org/abs/2203.15556)】【2022】
+- [ ] Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer【[paper](https://arxiv.org/abs/2203.03466)】【[code](https://github.com/microsoft/mup)】【2022】
+- [ ] Scaling Laws for Neural Language Models【[paper](https://arxiv.org/abs/2001.08361)】【2020】
+- [ ] Scaling Laws for Autoregressive Generative Modeling【[paper](https://arxiv.org/abs/2010.14701)】【2020】
+
+#### 位置编码
+- [ ] A length-extrapolatable transformer【[paper](https://arxiv.org/pdf/2212.10554.pdf)】【[code](https://github.com/sunyt32/torchscale)】【2022】
+- [ ] RoFormer: Enhanced Transformer with Rotary Position Embedding【[paper](https://arxiv.org/abs/2104.09864)】【[code](https://github.com/ZhuiyiTechnology/roformer)】【2021】
+- [ ] Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation 【[paper](https://arxiv.org/abs/2108.12409)】【[code](https://github.com/ofirpress/attention_with_linear_biases)】【2021】
 
 #### 轻量微调
 - [x] Stack More Layers Differently:High-Rank Training Through Low-Rank Updates (ReLoRA)【[paper](https://arxiv.org/abs/2307.05695)】【[code](https://github.com/guitaricet/peft_pretraining)】【2023】
