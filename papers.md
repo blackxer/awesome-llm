@@ -30,6 +30,7 @@ cofe-ai/Mu-scaling)】【2023】
 
 
 #### 思维链推理
+- [ ] Large Language Models as Optimizers 【[paper](https://arxiv.org/abs/2309.03409)】【2023】
 - [ ] Graph of Thoughts: Solving Elaborate Problems with Large Language Models (GoT)【[paper](https://arxiv.org/pdf/2308.09687v2.pdf)】【[code](https://github.com/spcl/graph-of-thoughts)】【2023】
 - [x] Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework【[paper](https://arxiv.org/abs/2305.03268)】【[code](https://github.com/RuochenZhao/Verify-and-Edit)】【2023】
 - [x] Tree of thoughts: Deliberate problem solving with large language models (ToT)【[paper](https://arxiv.org/pdf/2305.10601.pdf)】【[code](https://github.com/princeton-nlp/tree-of-thought-llm)】【2023】
