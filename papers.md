@@ -22,6 +22,7 @@ cofe-ai/Mu-scaling)】【2023】
 - [ ] Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation 【[paper](https://arxiv.org/abs/2108.12409)】【[code](https://github.com/ofirpress/attention_with_linear_biases)】【2021】
 
 #### 轻量微调
+- [ ] Memory Efficient Optimizers with 4-bit States【[paper](https://arxiv.org/abs/2309.01507)】【[code]( https://github.com/thu-ml/low-bit-optimizers)】【2023】
 - [x] Stack More Layers Differently:High-Rank Training Through Low-Rank Updates (ReLoRA)【[paper](https://arxiv.org/abs/2307.05695)】【[code](https://github.com/guitaricet/peft_pretraining)】【2023】
 - [x] QLORA: Efficient Finetuning of Quantized LLMs 【[论文](https://arxiv.org/pdf/2305.14314v1.pdf)】【[代码](https://github.com/artidoro/qlora)】【2023】
 - [x] LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS 【[论文](https://arxiv.org/pdf/2106.09685.pdf)】【[代码](https://github.com/microsoft/LoRA)】【2021】
