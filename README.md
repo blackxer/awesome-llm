@@ -3,21 +3,22 @@
 
 #### 中文模型
 - ChatGLM-6B：https://github.com/THUDM/ChatGLM-6B
-- ChatGLM2-6B(商用)：https://github.com/THUDM/ChatGLM2-6B
-- baichuan-7B(商用)：https://github.com/baichuan-inc/baichuan-7B
-- moss(商用)：https://github.com/OpenLMLab/MOSS
+- ChatGLM2-6B：https://github.com/THUDM/ChatGLM2-6B
+- Baichuan2：https://github.com/baichuan-inc/Baichuan2
+- Baichuan-7B：https://github.com/baichuan-inc/baichuan-7B
+- Baichuan-13B：https://github.com/baichuan-inc/Baichuan-13B
+- InternLM：https://github.com/InternLM/InternLM
+- Qwen-7B：https://github.com/QwenLM/Qwen-7B
+- moss：https://github.com/OpenLMLab/MOSS
 - Chinese-LLaMA-Alpaca：https://github.com/ymcui/Chinese-LLaMA-Alpaca
 - Chinese-Vicuna：https://github.com/Facico/Chinese-Vicuna
 - guanaco-lora：https://github.com/KohakuBlueleaf/guanaco-lora
 - Luotuo：https://github.com/LC1332/Chinese-alpaca-lora
-- Dromedary(商用)：https://github.com/IBM/Dromedary
+- Dromedary：https://github.com/IBM/Dromedary
 - BELLE：https://github.com/LianjiaTech/BELLE
-- Dolly(商用)：https://github.com/databrickslabs/dolly
-- ChatRWKV(商用)：https://github.com/BlinkDL/ChatRWKV
-- MPT-7B(商用)：https://www.mosaicml.com/blog/mpt-7b
-- InternLM(商用)：https://github.com/InternLM/InternLM
-#### 商用模型
-- https://github.com/eugeneyan/open-llms
+- Dolly：https://github.com/databrickslabs/dolly
+- MPT-7B：https://www.mosaicml.com/blog/mpt-7b
+- 模型：https://github.com/eugeneyan/open-llms
 
 #### 指令微调数据集
 - firefly：https://huggingface.co/datasets/YeungNLP/firefly-train-1.1M
@@ -26,8 +27,8 @@
 - pCLUE：https://github.com/CLUEbenchmark/pCLUE
 - Med-ChatGLM：https://github.com/SCIR-HI/Med-ChatGLM
 - COIG：https://huggingface.co/datasets/BAAI/COIG
+- GPT-4-LLM：https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM
 - InstructionZoo：https://github.com/FreedomIntelligence/InstructionZoo
-- https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM
 
 #### prompt 工程
 - 吴恩达视频：
