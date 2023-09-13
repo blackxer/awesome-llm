@@ -17,6 +17,7 @@ cofe-ai/Mu-scaling)】【2023】
 - [ ] Scaling Laws for Autoregressive Generative Modeling【[paper](https://arxiv.org/abs/2010.14701)】【2020】
 
 #### 位置编码
+- [ ] YaRN: Efficient Context Window Extension of Large Language Models【[paper](https://arxiv.org/abs/2309.00071)】【[code](https://github.com/jquesnelle/yarn)】【2023】
 - [ ] A length-extrapolatable transformer【[paper](https://arxiv.org/pdf/2212.10554.pdf)】【[code](https://github.com/sunyt32/torchscale)】【2022】
 - [ ] RoFormer: Enhanced Transformer with Rotary Position Embedding【[paper](https://arxiv.org/abs/2104.09864)】【[code](https://github.com/ZhuiyiTechnology/roformer)】【2021】
 - [ ] Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation 【[paper](https://arxiv.org/abs/2108.12409)】【[code](https://github.com/ofirpress/attention_with_linear_biases)】【2021】
@@ -61,3 +62,6 @@ cofe-ai/Mu-scaling)】【2023】
 - [ ] Training language models to follow instructions with human feedback(InstructGPT)【[paper](https://arxiv.org/abs/2203.02155)】【2022】
 - [ ] Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor【[paper](https://arxiv.org/abs/2212.09689)】【2022】
 - [ ] Self-Instruct: Aligning Language Models with Self-Generated Instructions【[paper](https://arxiv.org/abs/2212.10560)】【2022】
+
+#### 综述
+- [ ] Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models【[paper](http://arxiv.org/abs/2308.14149)】【[code](https://github.com/GPT-Alternatives/gpt_alternatives)】【2023】
