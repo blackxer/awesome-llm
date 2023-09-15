@@ -4,8 +4,7 @@
 - [ ] 2x Faster Language Model Pre-training via Masked Structural Growth【[paper](https://arxiv.org/abs/2305.02869)】【2023】
 - [ ] Freelm: Fine-tuning-free language model【[paper](https://arxiv.org/abs/2305.01616)】【2023】
 - [ ] GPT-4 technical report【[paper](https://arxiv.org/abs/2303.08774)】【2023】
-- [ ] Research without Re-search: Maximal Update Parametrization Yields Accurate Loss Prediction across Scales【[paper](https://arxiv.org/abs/2304.06875)】【[code](https://github.com/
-cofe-ai/Mu-scaling)】【2023】
+- [ ] Research without Re-search: Maximal Update Parametrization Yields Accurate Loss Prediction across Scales【[paper](https://arxiv.org/abs/2304.06875)】【[code](https://github.com/cofe-ai/Mu-scaling)】【2023】
 - [x] FLM-101B: An Open LLM and How to Train It with $100K Budget【[paper](https://arxiv.org/pdf/2309.03852.pdf)】【[code](https://huggingface.co/CofeAI/FLM-101B)】【2023】
 - [x] Baichuan2【[paper](https://cdn.baichuan-ai.com/paper/Baichuan2-technical-report.pdf)】【[code](https://github.com/baichuan-inc/Baichuan2)】【2023】
 - [x] llama2 【[论文](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)】【[代码](https://github.com/facebookresearch/llama)】【2023】
