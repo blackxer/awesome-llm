@@ -41,8 +41,8 @@
 - M3KE：https://github.com/tjunlp-lab/M3KE
 - CMMLU：https://github.com/haonan-li/CMMLU
 - LucyEval：https://github.com/Felixgithub2017/CG-Eval
-- FinEval：https://github.com/SUFE-AIFLM-Lab/FinEval/blob/main/README_zh-CN.md
-- CMB: A Comprehensive Medical Benchmark in Chinese：https://github.com/FreedomIntelligence/CMB
+- FinEval(金融)：https://github.com/SUFE-AIFLM-Lab/FinEval/blob/main/README_zh-CN.md
+- CMB(医药): A Comprehensive Medical Benchmark in Chinese：https://github.com/FreedomIntelligence/CMB
 
 #### 低硬件资源微调
 - QLoRA：https://zhuanlan.zhihu.com/p/632287465
