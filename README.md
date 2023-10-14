@@ -2,6 +2,8 @@
 大语言模型相关的开源项目资源收集
 
 #### 中文模型
+- AquilaSQL：https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila/Aquila-sql
+- Aquila2：https://github.com/FlagAI-Open/Aquila2
 - ChatGLM-6B：https://github.com/THUDM/ChatGLM-6B
 - ChatGLM2-6B：https://github.com/THUDM/ChatGLM2-6B
 - Baichuan2：https://github.com/baichuan-inc/Baichuan2
@@ -44,5 +46,5 @@
 - FinEval(金融)：https://github.com/SUFE-AIFLM-Lab/FinEval/blob/main/README_zh-CN.md
 - CMB(医药): A Comprehensive Medical Benchmark in Chinese：https://github.com/FreedomIntelligence/CMB
 
-#### 低硬件资源微调
-- QLoRA：https://zhuanlan.zhihu.com/p/632287465
+#### 课程
+- 斯坦福《大型语言模型与应用》：https://web.stanford.edu/class/cs329t/index.html
