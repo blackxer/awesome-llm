@@ -17,6 +17,7 @@
 
 
 #### 大模型里的小模型😂
+- [ ] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning【[paper](https://arxiv.org/abs/2310.06694)】【[code](https://xiamengzhou.github.io/sheared-llama/)】【2023】
 - [ ] Textbooks Are All You Need II: phi-1.5 technical report【[paper](https://arxiv.org/abs/2309.05463)】【】【2023】
 - [ ] TinyLlama-1.1B【[code](https://github.com/jzhang38/TinyLlama)】【2023】
 
@@ -38,6 +39,7 @@
 
 
 #### 思维链推理
+- [ ] Towards Better Chain-of-Thought Prompting Strategies: A Survey【[paper](https://browse.arxiv.org/abs/2310.04959)】【2023】
 - [ ] Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models (AoT)【[paper](https://arxiv.org/pdf/2308.10379.pdf)】【】【2023】
 - [ ] Large Language Models as Optimizers 【[paper](https://arxiv.org/abs/2309.03409)】【2023】
 - [ ] Graph of Thoughts: Solving Elaborate Problems with Large Language Models (GoT)【[paper](https://arxiv.org/pdf/2308.09687v2.pdf)】【[code](https://github.com/spcl/graph-of-thoughts)】【2023】
@@ -72,8 +74,25 @@
 
 
 #### Agent
+- [ ] Agents: An Open-source Framework for Autonomous Language Agents【[paper](https://arxiv.org/pdf/2309.07870.pdf)】【[code](https://github.com/aiwaves-cn/agents)】【2023】
 - [ ] The Rise and Potential of Large Language Model Based Agents: A Survey【[paper](https://arxiv.org/abs/2309.07864)】【[code](https://github.com/WooooDyy/LLM-Agent-Paper-List)】【2023】
 - [ ] ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models【[paper](https://arxiv.org/abs/2309.00986)】【[code](https://github.com/modelscope/modelscope-agent)】【2023】
+
+
+#### 可解释性
+- [ ] Explainability for Large Language Models: A Survey【[paper](https://arxiv.org/abs/2309.01029)】【[code](https://github.com/hy-zhao23/Explainability-for-Large-Language-Models)】【2023】
+- [ ] Towards Monosemanticity: Decomposing Language Models With Dictionary Learning【[paper](https://transformer-circuits.pub/2023/monosemantic-features/index.html)】【2023】
+
+
+#### 多模态
+- [ ] ImageBind: One Embedding Space To Bind Them All【[paper](http://arxiv.org/pdf/2305.05665.pdf)】【[code](http://github.com/facebookresearch/ImageBind)】【2023】
+- [ ] LLaVA: Large Language and Vision Assistant【[paper](https://arxiv.org/abs/2310.03744)】【[code](https://github.com/haotian-liu/LLaVA)】【2023】
+- [ ] MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens【[paper](https://browse.arxiv.org/pdf/2310.02239v1.pdf)】【[code](https://github.com/eric-ai-lab/MiniGPT-5)】【2023】
+- [ ] Learning Transferable Visual Models From Natural Language Supervision (clip)【[paper](https://arxiv.org/abs/2103.00020)】【[code](https://github.com/OpenAI/CLIP)】【2021】
+
+
+#### Embedding
+- [ ] Retrieve Anything To Augment Large Language Models (BGE2)【[paper](https://arxiv.org/pdf/2310.07554.pdf)】【[code](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/llm_embedder)】【2023】
 
 
 #### 综述
