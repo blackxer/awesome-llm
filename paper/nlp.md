@@ -17,6 +17,10 @@
 - [ ] Scaling Laws for Autoregressive Generative Modeling【[paper](https://arxiv.org/abs/2010.14701)】【2020】
 
 
+#### 对齐
+- [ ] Aligner : Achieving Efficient Alignment through Weak-to-Strong Correction【[paper](https://arxiv.org/abs/2402.02416)】【[code](https://aligner2024.github.io)】【2024】
+
+
 #### 大模型里的小模型😂
 - [ ] MiniCPM：Unveiling the Potential of End-side Large Language Models【[paper](https://shengdinghu.notion.site/MiniCPM-c805a17c5c8046398914e47f0542095a)】【[code](https://github.com/OpenBMB/MiniCPM)】【2024】 
 - [ ] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning【[paper](https://arxiv.org/abs/2310.06694)】【[code](https://xiamengzhou.github.io/sheared-llama/)】【2023】
@@ -41,6 +45,8 @@
 
 
 #### 思维链推理
+- [ ] Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding【[paper](https://arxiv.org/abs/2401.12954)】【[code](https://github.com/suzgunmirac/meta-prompting)】【2024】
+- [ ] Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4【[paper](https://arxiv.org/abs/2312.16171)】【[code](https://github.com/VILA-Lab/ATLAS)】【2023】
 - [ ] Towards Better Chain-of-Thought Prompting Strategies: A Survey【[paper](https://browse.arxiv.org/abs/2310.04959)】【2023】
 - [ ] Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models (AoT)【[paper](https://arxiv.org/pdf/2308.10379.pdf)】【】【2023】
 - [ ] Large Language Models as Optimizers 【[paper](https://arxiv.org/abs/2309.03409)】【2023】
@@ -95,14 +101,19 @@
 
 
 #### 多模态
-- [ ] Bunny【paper待更新】【[code](https://github.com/BAAI-DCAI/Bunny)】
+- [ ] Bunny【paper待更新】【[code](https://github.com/BAAI-DCAI/Bunny)】【2024】
+- [ ] MoE-LLaVA: Mixture of Experts for Large Vision-Language Models【[paper](https://arxiv.org/abs/2401.15947)】【[code](https://github.com/PKU-YuanGroup/MoE-LLaVA)】【2024】
+- [ ] Small Language Model Meets with Reinforced Vision Vocabulary【[paper](https://arxiv.org/abs/2401.12503)】【[code](https://github.com/Ucas-HaoranWei/Vary-toy)】【2024】
+- [ ] Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action【[paper](https://arxiv.org/abs/2312.17172)】【[code](https://github.com/allenai/unified-io-2)】【2023】
 - [ ] ImageBind: One Embedding Space To Bind Them All【[paper](http://arxiv.org/pdf/2305.05665.pdf)】【[code](http://github.com/facebookresearch/ImageBind)】【2023】
 - [ ] LLaVA: Large Language and Vision Assistant【[paper](https://arxiv.org/abs/2310.03744)】【[code](https://github.com/haotian-liu/LLaVA)】【2023】
 - [ ] MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens【[paper](https://browse.arxiv.org/pdf/2310.02239v1.pdf)】【[code](https://github.com/eric-ai-lab/MiniGPT-5)】【2023】
+- [ ] Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization【[paper](https://arxiv.org/abs/2309.04669)】【[code](https://github.com/jy0205/LaVIT)】【2023】
 - [ ] Learning Transferable Visual Models From Natural Language Supervision (clip)【[paper](https://arxiv.org/abs/2103.00020)】【[code](https://github.com/OpenAI/CLIP)】【2021】
 
 
 #### 综述
+- [ ] MM-LLMs: Recent Advances in MultiModal Large Language Models【[paper](https://arxiv.org/abs/2401.13601)】
 - [ ] The What, Why, and How of Context Length Extension Techniques in Large Language Models – A Detailed Survey【[paper](https://arxiv.org/pdf/2401.07872.pdf)】【2024】
 - [ ] A Survey on Data Augmentation in Large Model Era【[paper](https://export.arxiv.org/abs/2401.15422)】【[code](https://github.com/MLGroup-JLU/LLM-data-aug-survey)】【2024】 
 - [ ] A Survey of Large Language Models【[paper](https://arxiv.org/abs/2303.18223)】[code](https://github.com/RUCAIBox/LLMSurvey)】【2023】
