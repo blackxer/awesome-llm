@@ -17,6 +17,7 @@
 
 
 #### 大模型里的小模型😂
+- [ ] MiniCPM：Unveiling the Potential of End-side Large Language Models【[paper](https://shengdinghu.notion.site/MiniCPM-c805a17c5c8046398914e47f0542095a)】【[code](https://github.com/OpenBMB/MiniCPM)】【2024】 
 - [ ] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning【[paper](https://arxiv.org/abs/2310.06694)】【[code](https://xiamengzhou.github.io/sheared-llama/)】【2023】
 - [ ] Textbooks Are All You Need II: phi-1.5 technical report【[paper](https://arxiv.org/abs/2309.05463)】【】【2023】
 - [ ] TinyLlama-1.1B【[code](https://github.com/jzhang38/TinyLlama)】【2023】
@@ -85,6 +86,10 @@
 
 
 #### Embedding
+- [ ] Nomic Embed: Training a Reproducible Long Context Text Embedder【[paper](https://static.nomic.ai/reports/2024_Nomic_Embed_Text_Technical_Report.pdf)】【[code](https://github.com/nomic-ai/contrastors)】【2024】
+- [ ] BGE M3-Embedding: Multi-Lingual, Multi-Functionality,Multi-Granularity Text Embeddings Through Self-Knowledge Distillation【[paper](https://arxiv.org/pdf/2402.03216.pdf)】【[code](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/BGE_M3)】【2024】
+- [ ] Improving Text Embeddings with Large Language Models【[paper](https://arxiv.org/pdf/2401.00368.pdf)】【2024】
+- [ ] Matryoshka Representation Learning 【[paper](https://arxiv.org/pdf/2205.13147.pdf)】【[code](https://github.com/RAIVNLab/MRL)】【2022】
 - [ ] Retrieve Anything To Augment Large Language Models (BGE2)【[paper](https://arxiv.org/pdf/2310.07554.pdf)】【[code](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/llm_embedder)】【2023】
 
 
