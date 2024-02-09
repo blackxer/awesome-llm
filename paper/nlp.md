@@ -84,15 +84,16 @@
 - [ ] Towards Monosemanticity: Decomposing Language Models With Dictionary Learning【[paper](https://transformer-circuits.pub/2023/monosemantic-features/index.html)】【2023】
 
 
+#### Embedding
+- [ ] Retrieve Anything To Augment Large Language Models (BGE2)【[paper](https://arxiv.org/pdf/2310.07554.pdf)】【[code](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/llm_embedder)】【2023】
+
+
 #### 多模态
+- [ ] Bunny【paper待更新】【[code](https://github.com/BAAI-DCAI/Bunny)】
 - [ ] ImageBind: One Embedding Space To Bind Them All【[paper](http://arxiv.org/pdf/2305.05665.pdf)】【[code](http://github.com/facebookresearch/ImageBind)】【2023】
 - [ ] LLaVA: Large Language and Vision Assistant【[paper](https://arxiv.org/abs/2310.03744)】【[code](https://github.com/haotian-liu/LLaVA)】【2023】
 - [ ] MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens【[paper](https://browse.arxiv.org/pdf/2310.02239v1.pdf)】【[code](https://github.com/eric-ai-lab/MiniGPT-5)】【2023】
 - [ ] Learning Transferable Visual Models From Natural Language Supervision (clip)【[paper](https://arxiv.org/abs/2103.00020)】【[code](https://github.com/OpenAI/CLIP)】【2021】
-
-
-#### Embedding
-- [ ] Retrieve Anything To Augment Large Language Models (BGE2)【[paper](https://arxiv.org/pdf/2310.07554.pdf)】【[code](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/llm_embedder)】【2023】
 
 
 #### 综述
