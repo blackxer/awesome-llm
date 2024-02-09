@@ -1,6 +1,7 @@
 # 论文资源
 
 #### 大模型训练
+- [ ] OLMo: Accelerating the Science of Language Models【[paper](https://arxiv.org/pdf/2402.00838.pdf)】【[code](https://github.com/allenai/OLMo)】【2024】
 - [ ] 2x Faster Language Model Pre-training via Masked Structural Growth【[paper](https://arxiv.org/abs/2305.02869)】【2023】
 - [ ] Freelm: Fine-tuning-free language model【[paper](https://arxiv.org/abs/2305.01616)】【2023】
 - [ ] GPT-4 technical report【[paper](https://arxiv.org/abs/2303.08774)】【2023】
@@ -102,5 +103,6 @@
 
 
 #### 综述
+- [ ] A Survey on Data Augmentation in Large Model Era【[paper](https://export.arxiv.org/abs/2401.15422)】【[code](https://github.com/MLGroup-JLU/LLM-data-aug-survey)】【2024】 
 - [ ] A Survey of Large Language Models【[paper](https://arxiv.org/abs/2303.18223)】[code](https://github.com/RUCAIBox/LLMSurvey)】【2023】
 - [ ] Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models【[paper](http://arxiv.org/abs/2308.14149)】【[code](https://github.com/GPT-Alternatives/gpt_alternatives)】【2023】
