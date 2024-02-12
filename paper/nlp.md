@@ -19,6 +19,7 @@
 
 #### 对齐
 - [ ] Aligner : Achieving Efficient Alignment through Weak-to-Strong Correction【[paper](https://arxiv.org/abs/2402.02416)】【[code](https://aligner2024.github.io)】【2024】
+- [ ] A Minimaximalist Approach to Reinforcement Learning from Human Feedback【[paper](https://arxiv.org/abs/2401.04056)】【2024】
 
 
 #### 大模型里的小模型😂
@@ -63,6 +64,7 @@
 
 
 #### 指令数据集生成
+- [ ] LESS: Selecting Influential Data for Targeted Instruction Tuning【[paper](https://arxiv.org/abs/2402.04333)】【2024】
 - [x] Large language models are human-level prompt engineers【[paper](https://arxiv.org/pdf/2211.01910.pdf)】【[code](https://github.com/keirp/automatic_prompt_engineer)】【2023】
 - [x] Self-Alignment with Instruction Backtranslation【[paper](https://arxiv.org/abs/2308.06259)】【2023】
 - [ ] WizardLM: Empowering Large Language Models to Follow Complex Instructions【[paper](https://arxiv.org/abs/2304.12244)】【2023】
