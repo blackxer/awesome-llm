@@ -64,6 +64,7 @@
 
 
 #### 指令数据集生成
+- [ ] Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning【[paper](https://arxiv.org/abs/2402.06619)】【2024】
 - [ ] LESS: Selecting Influential Data for Targeted Instruction Tuning【[paper](https://arxiv.org/abs/2402.04333)】【2024】
 - [x] Large language models are human-level prompt engineers【[paper](https://arxiv.org/pdf/2211.01910.pdf)】【[code](https://github.com/keirp/automatic_prompt_engineer)】【2023】
 - [x] Self-Alignment with Instruction Backtranslation【[paper](https://arxiv.org/abs/2308.06259)】【2023】
@@ -115,6 +116,7 @@
 
 
 #### 综述
+- [ ] Large Language Models: A Survey【[paper](https://arxiv.org/pdf/2402.06196.pdf)】【2024】
 - [ ] MM-LLMs: Recent Advances in MultiModal Large Language Models【[paper](https://arxiv.org/abs/2401.13601)】
 - [ ] The What, Why, and How of Context Length Extension Techniques in Large Language Models – A Detailed Survey【[paper](https://arxiv.org/pdf/2401.07872.pdf)】【2024】
 - [ ] A Survey on Data Augmentation in Large Model Era【[paper](https://export.arxiv.org/abs/2401.15422)】【[code](https://github.com/MLGroup-JLU/LLM-data-aug-survey)】【2024】 
