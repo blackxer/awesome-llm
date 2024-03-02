@@ -1,6 +1,7 @@
 # 论文资源
 
 #### 大模型训练
+- [ ] Gemma: Open Models Based on Gemini Research and Technology【[paper](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)】【2024】
 - [ ] OLMo: Accelerating the Science of Language Models【[paper](https://arxiv.org/pdf/2402.00838.pdf)】【[code](https://github.com/allenai/OLMo)】【2024】
 - [ ] 2x Faster Language Model Pre-training via Masked Structural Growth【[paper](https://arxiv.org/abs/2305.02869)】【2023】
 - [ ] Freelm: Fine-tuning-free language model【[paper](https://arxiv.org/abs/2305.01616)】【2023】
@@ -23,7 +24,9 @@
 
 
 #### 大模型里的小模型😂
-- [ ] MiniCPM：Unveiling the Potential of End-side Large Language Models【[paper](https://shengdinghu.notion.site/MiniCPM-c805a17c5c8046398914e47f0542095a)】【[code](https://github.com/OpenBMB/MiniCPM)】【2024】 
+- [ ] MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases【[paper](https://arxiv.org/pdf/2402.14905.pdf)】【2024】
+- [ ] MiniCPM：Unveiling the Potential of End-side Large Language Models【[paper](https://shengdinghu.notion.site/MiniCPM-c805a17c5c8046398914e47f0542095a)】【[code](https://github.com/OpenBMB/MiniCPM)】【2024】
+- [ ] SliceGPT: Compress Large Language Models by Deleting Rows and Columns【[paper](https://arxiv.org/pdf/2401.15024.pdf)】【2024】
 - [ ] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning【[paper](https://arxiv.org/abs/2310.06694)】【[code](https://xiamengzhou.github.io/sheared-llama/)】【2023】
 - [ ] Textbooks Are All You Need II: phi-1.5 technical report【[paper](https://arxiv.org/abs/2309.05463)】【】【2023】
 - [ ] TinyLlama-1.1B【[code](https://github.com/jzhang38/TinyLlama)】【2023】
@@ -59,8 +62,15 @@
 - [x] Reflexion: an autonomous agent with dynamic memory and self-reflection【[paper](https://arxiv.org/pdf/2303.11366.pdf)】【[code](https://github.com/noahshinn024/reflexion)】【2023】
 - [ ] Automatic prompt augmentation and selection with chain-of-thought from labeled data【2023】
 - [x] Decomposition enhances reasoning via self-evaluation guided decoding【[paper](https://arxiv.org/pdf/2305.00633.pdf)】【[code](https://github.com/YuxiXie/SelfEval-Guided-Decoding)】【2023】
-- [x]  Self-consistency improves chain of thought reasoning in language models (CoT-SC)【[paper](https://arxiv.org/pdf/2203.11171.pdf)】【2022】
+- [x] Self-consistency improves chain of thought reasoning in language models (CoT-SC)【[paper](https://arxiv.org/pdf/2203.11171.pdf)】【2022】
 - [x] Chain of thought prompting elicits reasoning in large language models (CoT)【[paper](https://arxiv.org/pdf/2201.11903v6.pdf)】【2022】
+- [ ] Automatic Chain of Thought Prompting in Large Language Models【[paper](https://arxiv.org/pdf/2210.03493.pdf)】【2022】
+- [ ] LogiCoT: Logical Chain-of-Thought Instruction-Tuning【[paper](https://arxiv.org/pdf/2305.12147.pdf)】【2023】
+- [ ] Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models【[paper](https://arxiv.org/pdf/2305.10276.pdf)】【2023】
+- [ ] System 2 Attention (is something you might need too)【[paper](https://arxiv.org/pdf/2311.11829.pdf)】【2023】
+- [ ] Thread of Thought Unraveling Chaotic Contexts【[paper](https://arxiv.org/abs/2311.08734)】【2023】
+- [ ] Tab-CoT: Zero-shot Tabular Chain of Thought【[paper](https://arxiv.org/pdf/2305.17812.pdf)】【2023】
+- [ ] Language Models are Few-Shot Learners【[paper](https://arxiv.org/abs/2005.14165v4)】【2020】
 
 
 #### 指令数据集生成
@@ -104,6 +114,7 @@
 
 
 #### 多模态
+- [ ] World Model on Million-Length Video And Language With RingAttention【[paper](https://arxiv.org/abs/2402.08268)】【[code](https://github.com/LargeWorldModel/LWM)】【2024】
 - [ ] Bunny【paper待更新】【[code](https://github.com/BAAI-DCAI/Bunny)】【2024】
 - [ ] MoE-LLaVA: Mixture of Experts for Large Vision-Language Models【[paper](https://arxiv.org/abs/2401.15947)】【[code](https://github.com/PKU-YuanGroup/MoE-LLaVA)】【2024】
 - [ ] Small Language Model Meets with Reinforced Vision Vocabulary【[paper](https://arxiv.org/abs/2401.12503)】【[code](https://github.com/Ucas-HaoranWei/Vary-toy)】【2024】
@@ -116,8 +127,9 @@
 
 
 #### 综述
+- [ ] A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications【[paper](https://arxiv.org/abs/2402.07927)】【2024】
 - [ ] Large Language Models: A Survey【[paper](https://arxiv.org/pdf/2402.06196.pdf)】【2024】
-- [ ] MM-LLMs: Recent Advances in MultiModal Large Language Models【[paper](https://arxiv.org/abs/2401.13601)】
+- [ ] MM-LLMs: Recent Advances in MultiModal Large Language Models【[paper](https://arxiv.org/abs/2401.13601)】【2024】
 - [ ] The What, Why, and How of Context Length Extension Techniques in Large Language Models – A Detailed Survey【[paper](https://arxiv.org/pdf/2401.07872.pdf)】【2024】
 - [ ] A Survey on Data Augmentation in Large Model Era【[paper](https://export.arxiv.org/abs/2401.15422)】【[code](https://github.com/MLGroup-JLU/LLM-data-aug-survey)】【2024】 
 - [ ] A Survey of Large Language Models【[paper](https://arxiv.org/abs/2303.18223)】[code](https://github.com/RUCAIBox/LLMSurvey)】【2023】
