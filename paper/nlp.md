@@ -117,6 +117,7 @@
 
 
 #### 多模态
+- [ ]【[paper]()】【[code]()】【2024】
 - [ ] World Model on Million-Length Video And Language With RingAttention【[paper](https://arxiv.org/abs/2402.08268)】【[code](https://github.com/LargeWorldModel/LWM)】【2024】
 - [ ] Bunny【paper待更新】【[code](https://github.com/BAAI-DCAI/Bunny)】【2024】
 - [ ] MoE-LLaVA: Mixture of Experts for Large Vision-Language Models【[paper](https://arxiv.org/abs/2401.15947)】【[code](https://github.com/PKU-YuanGroup/MoE-LLaVA)】【2024】
