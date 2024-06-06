@@ -135,6 +135,7 @@
 - [ ] Large Language Models: A Survey【[paper](https://arxiv.org/pdf/2402.06196.pdf)】【2024】
 - [ ] MM-LLMs: Recent Advances in MultiModal Large Language Models【[paper](https://arxiv.org/abs/2401.13601)】【2024】
 - [ ] The What, Why, and How of Context Length Extension Techniques in Large Language Models – A Detailed Survey【[paper](https://arxiv.org/pdf/2401.07872.pdf)】【2024】
-- [ ] A Survey on Data Augmentation in Large Model Era【[paper](https://export.arxiv.org/abs/2401.15422)】【[code](https://github.com/MLGroup-JLU/LLM-data-aug-survey)】【2024】 
+- [ ] A Survey on Data Augmentation in Large Model Era【[paper](https://export.arxiv.org/abs/2401.15422)】【[code](https://github.com/MLGroup-JLU/LLM-data-aug-survey)】【2024】
+- [ ] A Survey on Multimodal Large Language Models【[paper](https://arxiv.org/pdf/2306.13549)】【[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)】【2023】
 - [ ] A Survey of Large Language Models【[paper](https://arxiv.org/abs/2303.18223)】[code](https://github.com/RUCAIBox/LLMSurvey)】【2023】
 - [ ] Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models【[paper](http://arxiv.org/abs/2308.14149)】【[code](https://github.com/GPT-Alternatives/gpt_alternatives)】【2023】
