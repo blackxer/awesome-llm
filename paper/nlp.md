@@ -20,6 +20,7 @@
 
 #### 对齐
 - [ ]【[paper]()】【[code]()】【2024】
+- [ ] [To Believe or Not to Believe Your LLM](https://arxiv.org/abs/2406.02543)【2024】
 - [ ] Inverse-RLignment: Inverse Reinforcement Learning from Demonstrations for LLM Alignment【[paper](https://arxiv.org/pdf/2405.15624)】【2024】
 - [ ] SimPO: Simple Preference Optimization with a Reference-Free Reward【[paper](https://arxiv.org/pdf/2405.14734)】【[code](https://github.com/princeton-nlp/SimPO)】【2024】
 - [ ] Aligner : Achieving Efficient Alignment through Weak-to-Strong Correction【[paper](https://arxiv.org/abs/2402.02416)】【[code](https://aligner2024.github.io)】【2024】
@@ -52,6 +53,7 @@
 
 
 #### 思维链推理
+- [ ] [BoT: Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models](https://arxiv.org/abs/2406.04271)【2024】
 - [ ] Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding【[paper](https://arxiv.org/abs/2401.12954)】【[code](https://github.com/suzgunmirac/meta-prompting)】【2024】
 - [ ] Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4【[paper](https://arxiv.org/abs/2312.16171)】【[code](https://github.com/VILA-Lab/ATLAS)】【2023】
 - [ ] Towards Better Chain-of-Thought Prompting Strategies: A Survey【[paper](https://browse.arxiv.org/abs/2310.04959)】【2023】
