@@ -23,6 +23,7 @@
 - [ ] [To Believe or Not to Believe Your LLM](https://arxiv.org/abs/2406.02543)【2024】
 - [ ] Inverse-RLignment: Inverse Reinforcement Learning from Demonstrations for LLM Alignment【[paper](https://arxiv.org/pdf/2405.15624)】【2024】
 - [ ] SimPO: Simple Preference Optimization with a Reference-Free Reward【[paper](https://arxiv.org/pdf/2405.14734)】【[code](https://github.com/princeton-nlp/SimPO)】【2024】
+- [ ] [Insights into Alignment:Evaluating DPO and its Variants Across Multiple Tasks](https://arxiv.org/pdf/2404.14723)【2024】
 - [ ] Aligner : Achieving Efficient Alignment through Weak-to-Strong Correction【[paper](https://arxiv.org/abs/2402.02416)】【[code](https://aligner2024.github.io)】【2024】
 - [ ] A Minimaximalist Approach to Reinforcement Learning from Human Feedback【[paper](https://arxiv.org/abs/2401.04056)】【2024】
 
