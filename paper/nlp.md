@@ -112,6 +112,7 @@
 
 
 #### Embedding
+- [ ] [Piccolo2: General Text Embedding with Multi-task Hybrid Loss Training](https://arxiv.org/abs/2405.06932)【2024】
 - [ ] Nomic Embed: Training a Reproducible Long Context Text Embedder【[paper](https://static.nomic.ai/reports/2024_Nomic_Embed_Text_Technical_Report.pdf)】【[code](https://github.com/nomic-ai/contrastors)】【2024】
 - [ ] BGE M3-Embedding: Multi-Lingual, Multi-Functionality,Multi-Granularity Text Embeddings Through Self-Knowledge Distillation【[paper](https://arxiv.org/pdf/2402.03216.pdf)】【[code](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/BGE_M3)】【2024】
 - [ ] Improving Text Embeddings with Large Language Models【[paper](https://arxiv.org/pdf/2401.00368.pdf)】【2024】
