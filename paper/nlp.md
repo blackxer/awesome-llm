@@ -54,6 +54,8 @@
 
 
 #### 思维链推理
+- [ ] [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608)【2024】
+- [ ] [CoX: Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs](https://arxiv.org/abs/2404.15676)【2024】
 - [ ] [BoT: Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models](https://arxiv.org/abs/2406.04271)【2024】
 - [ ] Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding【[paper](https://arxiv.org/abs/2401.12954)】【[code](https://github.com/suzgunmirac/meta-prompting)】【2024】
 - [ ] Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4【[paper](https://arxiv.org/abs/2312.16171)】【[code](https://github.com/VILA-Lab/ATLAS)】【2023】
@@ -122,6 +124,8 @@
 
 #### 多模态
 - [ ]【[paper]()】【[code]()】【2024】
+- [ ] [II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2406.05862)【2024】
+- [ ] [An Introduction to Vision-Language Modeling](https://arxiv.org/pdf/2405.17247)【2024】
 - [ ] World Model on Million-Length Video And Language With RingAttention【[paper](https://arxiv.org/abs/2402.08268)】【[code](https://github.com/LargeWorldModel/LWM)】【2024】
 - [ ] Bunny【paper待更新】【[code](https://github.com/BAAI-DCAI/Bunny)】【2024】
 - [ ] MoE-LLaVA: Mixture of Experts for Large Vision-Language Models【[paper](https://arxiv.org/abs/2401.15947)】【[code](https://github.com/PKU-YuanGroup/MoE-LLaVA)】【2024】
