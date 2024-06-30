@@ -82,6 +82,8 @@
 
 
 #### 指令数据集生成
+- [ ] [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models](https://huggingface.co/papers/2406.13542);[code](https://github.com/QwenLM/AutoIF)【2024】
+- [ ] [Best Practices and Lessons Learned on Synthetic Data for Language Models](https://arxiv.org/abs/2404.07503)【2024】
 - [ ] Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning【[paper](https://arxiv.org/abs/2402.06619)】【2024】
 - [ ] LESS: Selecting Influential Data for Targeted Instruction Tuning【[paper](https://arxiv.org/abs/2402.04333)】【2024】
 - [x] Large language models are human-level prompt engineers【[paper](https://arxiv.org/pdf/2211.01910.pdf)】【[code](https://github.com/keirp/automatic_prompt_engineer)】【2023】
@@ -124,19 +126,21 @@
 
 #### 多模态
 - [ ]【[paper]()】【[code]()】【2024】
+- [ ] [Stable Diffusion 3: Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://stabilityai-public-packages.s3.us-west-2.amazonaws.com/Stable+Diffusion+3+Paper.pdf)【2024】
 - [ ] [II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2406.05862)【2024】
 - [ ] [An Introduction to Vision-Language Modeling](https://arxiv.org/pdf/2405.17247)【2024】
 - [ ] World Model on Million-Length Video And Language With RingAttention【[paper](https://arxiv.org/abs/2402.08268)】【[code](https://github.com/LargeWorldModel/LWM)】【2024】
 - [ ] Bunny【paper待更新】【[code](https://github.com/BAAI-DCAI/Bunny)】【2024】
 - [ ] MoE-LLaVA: Mixture of Experts for Large Vision-Language Models【[paper](https://arxiv.org/abs/2401.15947)】【[code](https://github.com/PKU-YuanGroup/MoE-LLaVA)】【2024】
 - [ ] Small Language Model Meets with Reinforced Vision Vocabulary【[paper](https://arxiv.org/abs/2401.12503)】【[code](https://github.com/Ucas-HaoranWei/Vary-toy)】【2024】
+- [ ] [DALL·E 3](https://cdn.openai.com/papers/dall-e-3.pdf)【2023】
 - [ ] Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action【[paper](https://arxiv.org/abs/2312.17172)】【[code](https://github.com/allenai/unified-io-2)】【2023】
 - [ ] ImageBind: One Embedding Space To Bind Them All【[paper](http://arxiv.org/pdf/2305.05665.pdf)】【[code](http://github.com/facebookresearch/ImageBind)】【2023】
 - [ ] LLaVA: Large Language and Vision Assistant【[paper](https://arxiv.org/abs/2310.03744)】【[code](https://github.com/haotian-liu/LLaVA)】【2023】
 - [ ] MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens【[paper](https://browse.arxiv.org/pdf/2310.02239v1.pdf)】【[code](https://github.com/eric-ai-lab/MiniGPT-5)】【2023】
 - [ ] Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization【[paper](https://arxiv.org/abs/2309.04669)】【[code](https://github.com/jy0205/LaVIT)】【2023】
 - [ ] Learning Transferable Visual Models From Natural Language Supervision (clip)【[paper](https://arxiv.org/abs/2103.00020)】【[code](https://github.com/OpenAI/CLIP)】【2021】
-
+https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 
 #### 综述
 - [ ] A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications【[paper](https://arxiv.org/abs/2402.07927)】【2024】
@@ -144,6 +148,6 @@
 - [ ] MM-LLMs: Recent Advances in MultiModal Large Language Models【[paper](https://arxiv.org/abs/2401.13601)】【2024】
 - [ ] The What, Why, and How of Context Length Extension Techniques in Large Language Models – A Detailed Survey【[paper](https://arxiv.org/pdf/2401.07872.pdf)】【2024】
 - [ ] A Survey on Data Augmentation in Large Model Era【[paper](https://export.arxiv.org/abs/2401.15422)】【[code](https://github.com/MLGroup-JLU/LLM-data-aug-survey)】【2024】
-- [ ] A Survey on Multimodal Large Language Models【[paper](https://arxiv.org/pdf/2306.13549)】【[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)】【2023】
+- [ ] [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549)【[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)】【2023】
 - [ ] A Survey of Large Language Models【[paper](https://arxiv.org/abs/2303.18223)】[code](https://github.com/RUCAIBox/LLMSurvey)】【2023】
 - [ ] Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models【[paper](http://arxiv.org/abs/2308.14149)】【[code](https://github.com/GPT-Alternatives/gpt_alternatives)】【2023】
