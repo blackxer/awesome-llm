@@ -82,6 +82,7 @@
 
 
 #### 指令数据集生成
+- [ ] [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/pdf/2406.20094);[code](https://github.com/tencent-ailab/persona-hub);2024
 - [ ] [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models](https://huggingface.co/papers/2406.13542);[code](https://github.com/QwenLM/AutoIF)【2024】
 - [ ] [Best Practices and Lessons Learned on Synthetic Data for Language Models](https://arxiv.org/abs/2404.07503)【2024】
 - [ ] Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning【[paper](https://arxiv.org/abs/2402.06619)】【2024】
