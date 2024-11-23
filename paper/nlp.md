@@ -1,6 +1,13 @@
 # 论文资源
 
 #### 大模型训练
+- [ ] 【[paper]()】【[code]()】【2024】
+- [ ] ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools【[paper](https://arxiv.org/abs/2406.12793)】【2024】
+- [ ] Qwen 2.5【[paper](https://qwen2.org/qwen2-5/)】【2024】
+- [ ] Qwen 2【[paper](https://arxiv.org/pdf/2407.10671)】【2024】
+- [ ] Qwen 1.5【[paper](https://qwenlm.github.io/blog/qwen1.5/)】【2024】
+- [ ] Qwen 1【[paper](https://arxiv.org/pdf/2309.16609)】【2023】
+- [ ] Gemma 2: Improving Open Language Models at a Practical Size【[paper](https://arxiv.org/abs/2408.00118)】【2024】
 - [ ] Gemma: Open Models Based on Gemini Research and Technology【[paper](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)】【2024】
 - [ ] OLMo: Accelerating the Science of Language Models【[paper](https://arxiv.org/pdf/2402.00838.pdf)】【[code](https://github.com/allenai/OLMo)】【2024】
 - [ ] 2x Faster Language Model Pre-training via Masked Structural Growth【[paper](https://arxiv.org/abs/2305.02869)】【2023】
@@ -9,7 +16,8 @@
 - [ ] Research without Re-search: Maximal Update Parametrization Yields Accurate Loss Prediction across Scales【[paper](https://arxiv.org/abs/2304.06875)】【[code](https://github.com/cofe-ai/Mu-scaling)】【2023】
 - [x] FLM-101B: An Open LLM and How to Train It with $100K Budget【[paper](https://arxiv.org/pdf/2309.03852.pdf)】【[code](https://huggingface.co/CofeAI/FLM-101B)】【2023】
 - [x] Baichuan2【[paper](https://cdn.baichuan-ai.com/paper/Baichuan2-technical-report.pdf)】【[code](https://github.com/baichuan-inc/Baichuan2)】【2023】
-- [x] llama2 【[论文](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)】【[代码](https://github.com/facebookresearch/llama)】【2023】
+- [ ] llama3 【[论文](https://arxiv.org/abs/2407.21783)】【2024】
+- [x] llama2 【[论文](https://arxiv.org/abs/2307.09288)】【[代码](https://github.com/facebookresearch/llama)】【2023】
 - [x] llama【[论文](https://arxiv.org/pdf/2302.13971v1.pdf)】【[代码](https://github.com/facebookresearch/llama/tree/llama_v1)】【2023】
 - [x] opt 训练日志编年史【[Chronicles ](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/chronicles/README.md)】【2022】
 - [ ] Training Compute-Optimal Large Language Models【[paper](https://arxiv.org/abs/2203.15556)】【2022】
