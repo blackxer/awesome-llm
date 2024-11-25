@@ -2,6 +2,9 @@
 
 #### 大模型训练
 - [ ] 【[paper]()】【[code]()】【2024】
+- [x] TÜLU 3: Pushing Frontiers in
+Open Language Model Post-Training【[paper](https://allenai.org/papers/tulu-3-report.pdf)】【[code](https://github.com/allenai/open-instruct)】【2024】
+- [x] Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions【[paper](https://arxiv.org/abs/2411.14405)】【[code](https://github.com/AIDC-AI/Marco-o1)】【2024】
 - [ ] ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools【[paper](https://arxiv.org/abs/2406.12793)】【2024】
 - [ ] Qwen 2.5【[paper](https://qwen2.org/qwen2-5/)】【2024】
 - [ ] Qwen 2【[paper](https://arxiv.org/pdf/2407.10671)】【2024】
@@ -28,6 +31,7 @@
 
 #### 对齐
 - [ ]【[paper]()】【[code]()】【2024】
+- [ ] 【[paper]()】【[code]()】【2024】
 - [ ] [To Believe or Not to Believe Your LLM](https://arxiv.org/abs/2406.02543)【2024】
 - [ ] Inverse-RLignment: Inverse Reinforcement Learning from Demonstrations for LLM Alignment【[paper](https://arxiv.org/pdf/2405.15624)】【2024】
 - [ ] SimPO: Simple Preference Optimization with a Reference-Free Reward【[paper](https://arxiv.org/pdf/2405.14734)】【[code](https://github.com/princeton-nlp/SimPO)】【2024】
@@ -37,6 +41,8 @@
 
 
 #### 大模型里的小模型😂
+- [ ]【[paper]()】【[code]()】【2024】
+- [ ] A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness【[paper](https://arxiv.org/abs/2411.03350)】【[code](https://github.com/FairyFali/SLMs-Survey)】【2024】
 - [ ] MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases【[paper](https://arxiv.org/pdf/2402.14905.pdf)】【2024】
 - [ ] MiniCPM：Unveiling the Potential of End-side Large Language Models【[paper](https://shengdinghu.notion.site/MiniCPM-c805a17c5c8046398914e47f0542095a)】【[code](https://github.com/OpenBMB/MiniCPM)】【2024】
 - [ ] SliceGPT: Compress Large Language Models by Deleting Rows and Columns【[paper](https://arxiv.org/pdf/2401.15024.pdf)】【2024】
