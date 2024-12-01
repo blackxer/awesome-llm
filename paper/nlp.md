@@ -2,14 +2,15 @@
 
 #### 大模型训练
 - [ ] 【[paper]()】【[code]()】【2024】
-- [x] TÜLU 3: Pushing Frontiers in
-Open Language Model Post-Training【[paper](https://allenai.org/papers/tulu-3-report.pdf)】【[code](https://github.com/allenai/open-instruct)】【2024】
+- [ ] 
+- [ ] QwQ【[paper](https://qwenlm.github.io/blog/qwq-32b-preview/)】【[code](https://modelscope.cn/studios/Qwen/QwQ-32B-preview)】【2024】
+- [x] TÜLU 3: Pushing Frontiers in Open Language Model Post-Training【[paper](https://allenai.org/papers/tulu-3-report.pdf)】【[code](https://github.com/allenai/open-instruct)】【2024】
 - [x] Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions【[paper](https://arxiv.org/abs/2411.14405)】【[code](https://github.com/AIDC-AI/Marco-o1)】【2024】
-- [ ] ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools【[paper](https://arxiv.org/abs/2406.12793)】【2024】
-- [ ] Qwen 2.5【[paper](https://qwen2.org/qwen2-5/)】【2024】
-- [ ] Qwen 2【[paper](https://arxiv.org/pdf/2407.10671)】【2024】
-- [ ] Qwen 1.5【[paper](https://qwenlm.github.io/blog/qwen1.5/)】【2024】
-- [ ] Qwen 1【[paper](https://arxiv.org/pdf/2309.16609)】【2023】
+- [x] ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools【[paper](https://arxiv.org/abs/2406.12793)】【2024】
+- [x] Qwen 2.5【[paper](https://qwen2.org/qwen2-5/)】【2024】
+- [x] Qwen 2【[paper](https://arxiv.org/pdf/2407.10671)】【2024】
+- [x] Qwen 1.5【[paper](https://qwenlm.github.io/blog/qwen1.5/)】【2024】
+- [x] Qwen 1【[paper](https://arxiv.org/pdf/2309.16609)】【2023】
 - [ ] Gemma 2: Improving Open Language Models at a Practical Size【[paper](https://arxiv.org/abs/2408.00118)】【2024】
 - [ ] Gemma: Open Models Based on Gemini Research and Technology【[paper](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)】【2024】
 - [ ] OLMo: Accelerating the Science of Language Models【[paper](https://arxiv.org/pdf/2402.00838.pdf)】【[code](https://github.com/allenai/OLMo)】【2024】
@@ -31,7 +32,7 @@ Open Language Model Post-Training【[paper](https://allenai.org/papers/tulu-3-re
 
 #### 对齐
 - [ ]【[paper]()】【[code]()】【2024】
-- [ ] 【[paper]()】【[code]()】【2024】
+- [ ] SelfCodeAlign: Self-Alignment for Code Generation【[paper](https://arxiv.org/pdf/2410.24198)】【[code](https://github.com/bigcode-project/selfcodealign)】【2024】
 - [ ] [To Believe or Not to Believe Your LLM](https://arxiv.org/abs/2406.02543)【2024】
 - [ ] Inverse-RLignment: Inverse Reinforcement Learning from Demonstrations for LLM Alignment【[paper](https://arxiv.org/pdf/2405.15624)】【2024】
 - [ ] SimPO: Simple Preference Optimization with a Reference-Free Reward【[paper](https://arxiv.org/pdf/2405.14734)】【[code](https://github.com/princeton-nlp/SimPO)】【2024】
@@ -42,6 +43,7 @@ Open Language Model Post-Training【[paper](https://allenai.org/papers/tulu-3-re
 
 #### 大模型里的小模型😂
 - [ ]【[paper]()】【[code]()】【2024】
+- [ ] [从零训练 Steel-LLM](https://github.com/zhanshijinwat/Steel-LLM/tree/main)【2024】
 - [ ] A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness【[paper](https://arxiv.org/abs/2411.03350)】【[code](https://github.com/FairyFali/SLMs-Survey)】【2024】
 - [ ] MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases【[paper](https://arxiv.org/pdf/2402.14905.pdf)】【2024】
 - [ ] MiniCPM：Unveiling the Potential of End-side Large Language Models【[paper](https://shengdinghu.notion.site/MiniCPM-c805a17c5c8046398914e47f0542095a)】【[code](https://github.com/OpenBMB/MiniCPM)】【2024】
@@ -52,6 +54,7 @@ Open Language Model Post-Training【[paper](https://allenai.org/papers/tulu-3-re
 
 
 #### 位置编码
+- [ ] [ROUND AND ROUND WE GO! WHAT MAKES ROTARY POSITIONAL ENCODINGS USEFUL?](https://arxiv.org/pdf/2410.06205)【2024】
 - [ ] YaRN: Efficient Context Window Extension of Large Language Models【[paper](https://arxiv.org/abs/2309.00071)】【[code](https://github.com/jquesnelle/yarn)】【2023】
 - [ ] A length-extrapolatable transformer【[paper](https://arxiv.org/pdf/2212.10554.pdf)】【[code](https://github.com/sunyt32/torchscale)】【2022】
 - [ ] RoFormer: Enhanced Transformer with Rotary Position Embedding【[paper](https://arxiv.org/abs/2104.09864)】【[code](https://github.com/ZhuiyiTechnology/roformer)】【2021】
@@ -95,6 +98,11 @@ Open Language Model Post-Training【[paper](https://allenai.org/papers/tulu-3-re
 - [ ] Language Models are Few-Shot Learners【[paper](https://arxiv.org/abs/2005.14165v4)】【2020】
 
 
+#### 预训练数据
+- [ ] [CCI3.0-HQ 中文数据集](https://arxiv.org/abs/2410.18505)【2024】
+- [ ] [A Survey on Data Synthesis and Augmentation for Large Language Models](https://arxiv.org/abs/2410.12896)【2024】
+
+
 #### 指令数据集生成
 - [ ] [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/pdf/2406.20094);[code](https://github.com/tencent-ailab/persona-hub);2024
 - [ ] [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models](https://huggingface.co/papers/2406.13542);[code](https://github.com/QwenLM/AutoIF)【2024】
@@ -120,6 +128,9 @@ Open Language Model Post-Training【[paper](https://allenai.org/papers/tulu-3-re
 
 
 #### Agent
+- [ ]【[paper]()】【[code]()】【2024】
+- [ ] Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance【[paper](https://arxiv.org/abs/2410.12361)】【[code](https://github.com/thunlp/ProactiveAgent)】【2024】
+- [ ] AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning【[paper](https://arxiv.org/abs/2405.16247)】【[code](https://github.com/minghchen/automanual)】【2024】
 - [ ] Agents: An Open-source Framework for Autonomous Language Agents【[paper](https://arxiv.org/pdf/2309.07870.pdf)】【[code](https://github.com/aiwaves-cn/agents)】【2023】
 - [ ] The Rise and Potential of Large Language Model Based Agents: A Survey【[paper](https://arxiv.org/abs/2309.07864)】【[code](https://github.com/WooooDyy/LLM-Agent-Paper-List)】【2023】
 - [ ] ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models【[paper](https://arxiv.org/abs/2309.00986)】【[code](https://github.com/modelscope/modelscope-agent)】【2023】
