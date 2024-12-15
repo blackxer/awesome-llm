@@ -1,6 +1,6 @@
-# 论文资源
+# 基础论文
 
-#### 大模型训练
+#### 预训练
 - [ ] 【[paper]()】【[code]()】【2024】
 - [ ] 
 - [ ] QwQ【[paper](https://qwenlm.github.io/blog/qwq-32b-preview/)】【[code](https://modelscope.cn/studios/Qwen/QwQ-32B-preview)】【2024】
@@ -31,7 +31,9 @@
 
 
 #### 对齐
-- [ ]【[paper]()】【[code]()】【2024】
+- [ ] [Reward Hacking in Reinforcement Learning](https://lilianweng.github.io/posts/2024-11-28-reward-hacking/#in-context-reward-hacking)
+- [ ] [IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization](https://arxiv.org/abs/2411.06208)【2024】
+- [ ] [O1 Replication Journey -- Part 2: Surpassing O1-preview through Simple Distillation, Big Progress or Bitter Lesso](https://arxiv.org/abs/2411.16489)【2024】
 - [ ] SelfCodeAlign: Self-Alignment for Code Generation【[paper](https://arxiv.org/pdf/2410.24198)】【[code](https://github.com/bigcode-project/selfcodealign)】【2024】
 - [ ] [To Believe or Not to Believe Your LLM](https://arxiv.org/abs/2406.02543)【2024】
 - [ ] Inverse-RLignment: Inverse Reinforcement Learning from Demonstrations for LLM Alignment【[paper](https://arxiv.org/pdf/2405.15624)】【2024】
@@ -70,11 +72,15 @@
 - [x] MEASURING THE INTRINSIC DIMENSION OF OBJECTIVE LANDSCAPES 【[论文](https://arxiv.org/pdf/1804.08838.pdf)】【2018】
 
 
-#### 思维链推理
+#### 提示词工程
+- [ ] [From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge](https://arxiv.org/abs/2411.16594)【2024】
+- [ ] [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769)【2024】
+- [ ] [Instance-adaptive Zero-shot Chain-of-Thought Prompting](https://arxiv.org/abs/2409.20441)【2024】
 - [ ] [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608)【2024】
 - [ ] [CoX: Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs](https://arxiv.org/abs/2404.15676)【2024】
 - [ ] [BoT: Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models](https://arxiv.org/abs/2406.04271)【2024】
 - [ ] Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding【[paper](https://arxiv.org/abs/2401.12954)】【[code](https://github.com/suzgunmirac/meta-prompting)】【2024】
+- [ ] [PROMPTBREEDER: SELF-REFERENTIAL SELF-IMPROVEMENT VIA PROMPT EVOLUTION](https://arxiv.org/pdf/2309.16797)【2023】
 - [ ] Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4【[paper](https://arxiv.org/abs/2312.16171)】【[code](https://github.com/VILA-Lab/ATLAS)】【2023】
 - [ ] Towards Better Chain-of-Thought Prompting Strategies: A Survey【[paper](https://browse.arxiv.org/abs/2310.04959)】【2023】
 - [ ] Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models (AoT)【[paper](https://arxiv.org/pdf/2308.10379.pdf)】【】【2023】
@@ -128,7 +134,7 @@
 
 
 #### Agent
-- [ ]【[paper]()】【[code]()】【2024】
+- [ ] [AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback](https://arxiv.org/abs/2402.01469)【2024】
 - [ ] Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance【[paper](https://arxiv.org/abs/2410.12361)】【[code](https://github.com/thunlp/ProactiveAgent)】【2024】
 - [ ] AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning【[paper](https://arxiv.org/abs/2405.16247)】【[code](https://github.com/minghchen/automanual)】【2024】
 - [ ] Agents: An Open-source Framework for Autonomous Language Agents【[paper](https://arxiv.org/pdf/2309.07870.pdf)】【[code](https://github.com/aiwaves-cn/agents)】【2023】
@@ -151,7 +157,7 @@
 
 
 #### 多模态
-- [ ]【[paper]()】【[code]()】【2024】
+- [ ] [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)【2024】
 - [ ] [Stable Diffusion 3: Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://stabilityai-public-packages.s3.us-west-2.amazonaws.com/Stable+Diffusion+3+Paper.pdf)【2024】
 - [ ] [II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2406.05862)【2024】
 - [ ] [An Introduction to Vision-Language Modeling](https://arxiv.org/pdf/2405.17247)【2024】
@@ -177,3 +183,10 @@ https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 - [ ] [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549)【[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)】【2023】
 - [ ] A Survey of Large Language Models【[paper](https://arxiv.org/abs/2303.18223)】[code](https://github.com/RUCAIBox/LLMSurvey)】【2023】
 - [ ] Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models【[paper](http://arxiv.org/abs/2308.14149)】【[code](https://github.com/GPT-Alternatives/gpt_alternatives)】【2023】
+
+
+# 领域内论文
+
+#### Text-to-SQL
+- [ ] [RSL-SQL: Robust Schema Linking in Text-to-SQL Generation](https://arxiv.org/abs/2411.00073)
+- [ ]  
