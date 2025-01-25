@@ -4,4 +4,5 @@
 - [ML Retreat: Advanced ML Learning Journal](https://github.com/hesamsheikh/ml-retreat)
 - [AI 工程师路线图](https://roadmap.sh/ai-engineer)
 - [自然语言处理：大模型理论与实践](https://nlp-book.swufenlp.group/)
-- 
+- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch.git)
+- [LLMs-from-scratch中文版](https://github.com/MLNLP-World/LLMs-from-scratch-CN.git)

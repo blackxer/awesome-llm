@@ -1,8 +1,8 @@
 # 基础论文
 
 #### 预训练
-- [ ] 【[paper]()】【[code]()】【2024】
 - [ ] 
+- [ ] [2 OLMo 2 Furious](https://arxiv.org/pdf/2501.00656)【2025】
 - [ ] QwQ【[paper](https://qwenlm.github.io/blog/qwq-32b-preview/)】【[code](https://modelscope.cn/studios/Qwen/QwQ-32B-preview)】【2024】
 - [x] TÜLU 3: Pushing Frontiers in Open Language Model Post-Training【[paper](https://allenai.org/papers/tulu-3-report.pdf)】【[code](https://github.com/allenai/open-instruct)】【2024】
 - [x] Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions【[paper](https://arxiv.org/abs/2411.14405)】【[code](https://github.com/AIDC-AI/Marco-o1)】【2024】
@@ -73,6 +73,7 @@
 
 
 #### 提示词工程
+- [ ] [Evolving Deeper LLM Thinking](https://arxiv.org/abs/2501.09891)【2025】
 - [ ] [From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge](https://arxiv.org/abs/2411.16594)【2024】
 - [ ] [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769)【2024】
 - [ ] [Instance-adaptive Zero-shot Chain-of-Thought Prompting](https://arxiv.org/abs/2409.20441)【2024】
