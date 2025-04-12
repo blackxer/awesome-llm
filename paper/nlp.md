@@ -1,7 +1,9 @@
 # 基础论文
 
 #### 预训练
-- [ ] 
+- [ ] [Kimi-VL Technical Report](https://arxiv.org/abs/2504.07491)【2025】
+- [ ] [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)【2025】
+- [ ] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)【2025】
 - [ ] [2 OLMo 2 Furious](https://arxiv.org/pdf/2501.00656)【2025】
 - [ ] QwQ【[paper](https://qwenlm.github.io/blog/qwq-32b-preview/)】【[code](https://modelscope.cn/studios/Qwen/QwQ-32B-preview)】【2024】
 - [x] TÜLU 3: Pushing Frontiers in Open Language Model Post-Training【[paper](https://allenai.org/papers/tulu-3-report.pdf)】【[code](https://github.com/allenai/open-instruct)】【2024】
