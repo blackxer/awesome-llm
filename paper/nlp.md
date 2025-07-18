@@ -194,6 +194,12 @@ https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 #### Text-to-SQL
 - [ ] [RSL-SQL: Robust Schema Linking in Text-to-SQL Generation](https://arxiv.org/abs/2411.00073)
 
-#### 语音
+#### 语音识别
 - [ ] [Kimi-Audio Technical Report](https://arxiv.org/abs/2504.18425)【2025】
 - [ ] [Dolphin: A Large-Scale Automatic Speech Recognition Model for Eastern Languages](https://arxiv.org/abs/2503.20212)【2025】
+
+#### 语音合成
+- [ ] [IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System](https://arxiv.org/abs/2502.05512)【2025】
+- [ ] [CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training](https://arxiv.org/abs/2505.17589)【2025】
+- [ ] [CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models](https://arxiv.org/abs/2412.10117)【2025】
+- [ ] [CosyVoice 1](https://funaudiollm.github.io/pdf/CosyVoice_v1.pdf)【2025】
