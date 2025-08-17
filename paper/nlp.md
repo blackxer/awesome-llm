@@ -1,36 +1,37 @@
 # 基础模型
 
 #### 一、预训练
-- [ ] [Kimi-VL Technical Report](https://arxiv.org/abs/2504.07491)【2025】
+- [ ] [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471) [2025]
+- [ ] [Kimi K2: Open Agentic Intelligence](https://www.arxiv.org/abs/2507.20534) [2025]
 - [ ] [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)【2025】
 - [ ] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)【2025】
-- [x] TÜLU 3: Pushing Frontiers in Open Language Model Post-Training【[paper](https://allenai.org/papers/tulu-3-report.pdf)】【[code](https://github.com/allenai/open-instruct)】【2024】
-- [x] Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions【[paper](https://arxiv.org/abs/2411.14405)】【[code](https://github.com/AIDC-AI/Marco-o1)】【2024】
-- [x] ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools【[paper](https://arxiv.org/abs/2406.12793)】【2024】
+- [x] [TÜLU 3: Pushing Frontiers in Open Language Model Post-Training](https://allenai.org/papers/tulu-3-report.pdf)【[code](https://github.com/allenai/open-instruct)】【2024】
+- [x] [Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions](https://arxiv.org/abs/2411.14405)【[code](https://github.com/AIDC-AI/Marco-o1)】【2024】
+- [x] [ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools](https://arxiv.org/abs/2406.12793)【2024】
 - [ ] [QwQ](https://qwenlm.github.io/blog/qwq-32b-preview/)【[code](https://modelscope.cn/studios/Qwen/QwQ-32B-preview)】【2024】
 - [ ] [Qwen3](https://qwenlm.github.io/blog/qwen3/)【2025】
 - [x] [Qwen 2.5](https://arxiv.org/abs/2412.15115)【2024】
 - [x] [Qwen 2](https://arxiv.org/pdf/2407.10671)【2024】
 - [x] [Qwen 1.5](https://qwenlm.github.io/blog/qwen1.5/)【2024】
 - [x] [Qwen 1](https://arxiv.org/pdf/2309.16609)【2023】
-- [ ] Gemma 2: Improving Open Language Models at a Practical Size【[paper](https://arxiv.org/abs/2408.00118)】【2024】
-- [ ] Gemma: Open Models Based on Gemini Research and Technology【[paper](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)】【2024】
+- [ ] [Gemma 2: Improving Open Language Models at a Practical Size](https://arxiv.org/abs/2408.00118)【2024】
+- [ ] [Gemma: Open Models Based on Gemini Research and Technology](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)【2024】
 - [ ] [2 OLMo 2 Furious](https://arxiv.org/pdf/2501.00656)【2025】
 - [ ] [OLMo: Accelerating the Science of Language Models](https://arxiv.org/pdf/2402.00838.pdf)【[code](https://github.com/allenai/OLMo)】【2024】
-- [ ] 2x Faster Language Model Pre-training via Masked Structural Growth【[paper](https://arxiv.org/abs/2305.02869)】【2023】
-- [ ] Freelm: Fine-tuning-free language model【[paper](https://arxiv.org/abs/2305.01616)】【2023】
-- [ ] GPT-4 technical report【[paper](https://arxiv.org/abs/2303.08774)】【2023】
-- [ ] Research without Re-search: Maximal Update Parametrization Yields Accurate Loss Prediction across Scales【[paper](https://arxiv.org/abs/2304.06875)】【[code](https://github.com/cofe-ai/Mu-scaling)】【2023】
-- [x] FLM-101B: An Open LLM and How to Train It with $100K Budget【[paper](https://arxiv.org/pdf/2309.03852.pdf)】【[code](https://huggingface.co/CofeAI/FLM-101B)】【2023】
-- [x] Baichuan2【[paper](https://cdn.baichuan-ai.com/paper/Baichuan2-technical-report.pdf)】【[code](https://github.com/baichuan-inc/Baichuan2)】【2023】
-- [ ] llama3 【[论文](https://arxiv.org/abs/2407.21783)】【2024】
-- [x] llama2 【[论文](https://arxiv.org/abs/2307.09288)】【[代码](https://github.com/facebookresearch/llama)】【2023】
-- [x] llama【[论文](https://arxiv.org/pdf/2302.13971v1.pdf)】【[代码](https://github.com/facebookresearch/llama/tree/llama_v1)】【2023】
+- [ ] [2x Faster Language Model Pre-training via Masked Structural Growth](https://arxiv.org/abs/2305.02869)【2023】
+- [ ] [Freelm: Fine-tuning-free language model](https://arxiv.org/abs/2305.01616)【2023】
+- [ ] [GPT-4 technical report](https://arxiv.org/abs/2303.08774)【2023】
+- [ ] [Research without Re-search: Maximal Update Parametrization Yields Accurate Loss Prediction across Scales](https://arxiv.org/abs/2304.06875)【[code](https://github.com/cofe-ai/Mu-scaling)】【2023】
+- [x] [FLM-101B: An Open LLM and How to Train It with $100K Budget](https://arxiv.org/pdf/2309.03852.pdf)【[code](https://huggingface.co/CofeAI/FLM-101B)】【2023】
+- [x] [Baichuan2](https://cdn.baichuan-ai.com/paper/Baichuan2-technical-report.pdf)【[code](https://github.com/baichuan-inc/Baichuan2)】【2023】
+- [ ] [llama3](https://arxiv.org/abs/2407.21783)【2024】
+- [x] [llama2](https://arxiv.org/abs/2307.09288)【[代码](https://github.com/facebookresearch/llama)】【2023】
+- [x] [llama](https://arxiv.org/pdf/2302.13971v1.pdf)【[代码](https://github.com/facebookresearch/llama/tree/llama_v1)】【2023】
 - [x] opt 训练日志编年史【[Chronicles ](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/chronicles/README.md)】【2022】
-- [ ] Training Compute-Optimal Large Language Models【[paper](https://arxiv.org/abs/2203.15556)】【2022】
-- [ ] Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer【[paper](https://arxiv.org/abs/2203.03466)】【[code](https://github.com/microsoft/mup)】【2022】
-- [ ] Scaling Laws for Neural Language Models【[paper](https://arxiv.org/abs/2001.08361)】【2020】
-- [ ] Scaling Laws for Autoregressive Generative Modeling【[paper](https://arxiv.org/abs/2010.14701)】【2020】
+- [ ] [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)【2022】
+- [ ] [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)【[code](https://github.com/microsoft/mup)】【2022】
+- [ ] [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)【2020】
+- [ ] [Scaling Laws for Autoregressive Generative Modeling](https://arxiv.org/abs/2010.14701)【2020】
 
 
 #### 二、对齐
@@ -161,6 +162,9 @@
 
 
 #### 十二、多模态
+- [ ] [Qwen-Image Technical Report](https://arxiv.org/abs/2508.02324) [2025]
+- [ ] [GLM-4.1V-Thinking and GLM-4.5V: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006) [2025]
+- [ ] [Kimi-VL Technical Report](https://arxiv.org/abs/2504.07491)【2025】
 - [ ] [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)【2024】
 - [ ] [Stable Diffusion 3: Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://stabilityai-public-packages.s3.us-west-2.amazonaws.com/Stable+Diffusion+3+Paper.pdf)【2024】
 - [ ] [II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2406.05862)【2024】
