@@ -14,6 +14,7 @@
 - [x] [Qwen 2](https://arxiv.org/pdf/2407.10671)【2024】
 - [x] [Qwen 1.5](https://qwenlm.github.io/blog/qwen1.5/)【2024】
 - [x] [Qwen 1](https://arxiv.org/pdf/2309.16609)【2023】
+- [ ] [Gemma 3 Technical Report](https://arxiv.org/abs/2503.19786) [2025]
 - [ ] [Gemma 2: Improving Open Language Models at a Practical Size](https://arxiv.org/abs/2408.00118)【2024】
 - [ ] [Gemma: Open Models Based on Gemini Research and Technology](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)【2024】
 - [ ] [2 OLMo 2 Furious](https://arxiv.org/pdf/2501.00656)【2025】
