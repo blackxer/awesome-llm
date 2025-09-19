@@ -208,3 +208,8 @@ https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 - [ ] [CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training](https://arxiv.org/abs/2505.17589)【2025】
 - [ ] [CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models](https://arxiv.org/abs/2412.10117)【2025】
 - [ ] [CosyVoice 1](https://funaudiollm.github.io/pdf/CosyVoice_v1.pdf)【2025】
+
+#### 数字人
+- [ ] [EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation](https://arxiv.org/abs/2507.03905)【2025】
+- [ ] [EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation](https://arxiv.org/abs/2411.10061)【2024】
+- [ ] [EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions](https://arxiv.org/abs/2407.08136)【2024】
