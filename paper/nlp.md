@@ -150,7 +150,7 @@
 - [ ] The Rise and Potential of Large Language Model Based Agents: A Survey【[paper](https://arxiv.org/abs/2309.07864)】【[code](https://github.com/WooooDyy/LLM-Agent-Paper-List)】【2023】
 - [ ] ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models【[paper](https://arxiv.org/abs/2309.00986)】【[code](https://github.com/modelscope/modelscope-agent)】【2023】
 
-# RAG
+#### RAG
 - [ ] [RAGtifier: Evaluating RAG Generation Approaches of State-of-the-Art RAG Systems for the SIGIR LiveRAG Competition](https://arxiv.org/abs/2506.14412) 2025
 - [ ] [Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges](https://arxiv.org/abs/2504.15205) 2025
 - [ ] [A Comprehensive Survey of Retrieval-Augmented Generation (RAG) Evaluation and Benchmarks: Perspectives from Information Retrieval and LLM](https://www.researchgate.net/publication/396290953_A_Comprehensive_Survey_of_Retrieval-Augmented_Generation_RAG_Evaluation_and_Benchmarks_Perspectives_from_Information_Retrieval_and_LLM) 2025
