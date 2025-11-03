@@ -139,6 +139,10 @@
 
 
 #### 九、Agent
+- [ ] [Memory OS of AI Agent](https://arxiv.org/abs/2506.06326) 2025
+- [ ] [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) 2025
+- [ ] [τ^2-Bench: Evaluating Conversational Agents in a Dual-Control Environment](https://arxiv.org/abs/2506.07982) 2025
+- [ ] [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/abs/2406.12045) 2024
 - [ ] [AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback](https://arxiv.org/abs/2402.01469)【2024】
 - [ ] Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance【[paper](https://arxiv.org/abs/2410.12361)】【[code](https://github.com/thunlp/ProactiveAgent)】【2024】
 - [ ] AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning【[paper](https://arxiv.org/abs/2405.16247)】【[code](https://github.com/minghchen/automanual)】【2024】
@@ -146,6 +150,15 @@
 - [ ] The Rise and Potential of Large Language Model Based Agents: A Survey【[paper](https://arxiv.org/abs/2309.07864)】【[code](https://github.com/WooooDyy/LLM-Agent-Paper-List)】【2023】
 - [ ] ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models【[paper](https://arxiv.org/abs/2309.00986)】【[code](https://github.com/modelscope/modelscope-agent)】【2023】
 
+# RAG
+- [ ] [RAGtifier: Evaluating RAG Generation Approaches of State-of-the-Art RAG Systems for the SIGIR LiveRAG Competition](https://arxiv.org/abs/2506.14412) 2025
+- [ ] [Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges](https://arxiv.org/abs/2504.15205) 2025
+- [ ] [A Comprehensive Survey of Retrieval-Augmented Generation (RAG) Evaluation and Benchmarks: Perspectives from Information Retrieval and LLM](https://www.researchgate.net/publication/396290953_A_Comprehensive_Survey_of_Retrieval-Augmented_Generation_RAG_Evaluation_and_Benchmarks_Perspectives_from_Information_Retrieval_and_LLM) 2025
+- [ ] [Retrieval-Augmented Generation: A Comprehensive Survey of Architectures, Enhancements, and Robustness Frontiers](https://arxiv.org/abs/2506.00054) 2025
+- [ ] [Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey](https://arxiv.org/pdf/2504.14891v1) 2025
+- [ ] [Can LLMs Be Trusted for Evaluating RAG Systems? A Survey of Methods and Datasets](https://www.arxiv.org/abs/2504.20119) 2025
+- [ ] [RAGentA: Multi-Agent Retrieval-Augmented Generation for Attributed Question Answering](https://arxiv.org/pdf/2506.16988v1) 2025
+- [ ] [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136) 2025
 
 #### 十、可解释性
 - [ ] Explainability for Large Language Models: A Survey【[paper](https://arxiv.org/abs/2309.01029)】【[code](https://github.com/hy-zhao23/Explainability-for-Large-Language-Models)】【2023】
@@ -204,6 +217,7 @@ https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 - [ ] [Dolphin: A Large-Scale Automatic Speech Recognition Model for Eastern Languages](https://arxiv.org/abs/2503.20212)【2025】
 
 #### 语音合成
+- [ ] [SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity](https://arxiv.org/pdf/2510.23541) 2025
 - [ ] [IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System](https://arxiv.org/abs/2502.05512)【2025】
 - [ ] [CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training](https://arxiv.org/abs/2505.17589)【2025】
 - [ ] [CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models](https://arxiv.org/abs/2412.10117)【2025】
