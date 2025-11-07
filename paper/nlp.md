@@ -143,6 +143,7 @@
 - [ ] [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) 2025
 - [ ] [τ^2-Bench: Evaluating Conversational Agents in a Dual-Control Environment](https://arxiv.org/abs/2506.07982) 2025
 - [ ] [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/abs/2406.12045) 2024
+- [ ] [Agent AI: Surveying the Horizons of Multimodal Interaction](https://arxiv.org/abs/2401.03568) 2024
 - [ ] [AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback](https://arxiv.org/abs/2402.01469)【2024】
 - [ ] Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance【[paper](https://arxiv.org/abs/2410.12361)】【[code](https://github.com/thunlp/ProactiveAgent)】【2024】
 - [ ] AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning【[paper](https://arxiv.org/abs/2405.16247)】【[code](https://github.com/minghchen/automanual)】【2024】
