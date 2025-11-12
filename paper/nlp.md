@@ -1,22 +1,43 @@
 # 基础模型
 
 #### 一、预训练
-- [ ] [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471) [2025]
-- [ ] [Kimi K2: Open Agentic Intelligence](https://www.arxiv.org/abs/2507.20534) [2025]
-- [ ] [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)【2025】
-- [ ] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)【2025】
-- [x] [TÜLU 3: Pushing Frontiers in Open Language Model Post-Training](https://allenai.org/papers/tulu-3-report.pdf)【[code](https://github.com/allenai/open-instruct)】【2024】
-- [x] [Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions](https://arxiv.org/abs/2411.14405)【[code](https://github.com/AIDC-AI/Marco-o1)】【2024】
-- [x] [ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools](https://arxiv.org/abs/2406.12793)【2024】
-- [ ] [QwQ](https://qwenlm.github.io/blog/qwq-32b-preview/)【[code](https://modelscope.cn/studios/Qwen/QwQ-32B-preview)】【2024】
+###### Qwen
 - [ ] [Qwen3](https://qwenlm.github.io/blog/qwen3/)【2025】
+- [ ] [QwQ](https://qwenlm.github.io/blog/qwq-32b-preview/)【2024】
 - [x] [Qwen 2.5](https://arxiv.org/abs/2412.15115)【2024】
 - [x] [Qwen 2](https://arxiv.org/pdf/2407.10671)【2024】
 - [x] [Qwen 1.5](https://qwenlm.github.io/blog/qwen1.5/)【2024】
 - [x] [Qwen 1](https://arxiv.org/pdf/2309.16609)【2023】
+###### DeepSeek
+- [ ] [DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/DeepSeek_V3_2.pdf) 2025
+- [ ] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)【2025】
+- [ ] [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)【2025】
+###### Kimi
+- [ ] [Kimi k2 thinking](https://moonshotai.github.io/Kimi-K2/thinking.html) 2025
+- [ ] [Kimi K2: Open Agentic Intelligence](https://www.arxiv.org/abs/2507.20534) 2025
+- [ ] [Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2504.11354) 2025
+- [ ] [Muon is Scalable for LLM Training](https://arxiv.org/abs/2502.16982) 2025
+- [ ] [MoBA: Mixture of Block Attention for Long-Context LLMs](https://arxiv.org/abs/2502.13189) 2025
+- [ ] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599) 2025
+- [ ] [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://arxiv.org/abs/2407.00079) 2024
+###### GLM
+- [ ] [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471) 2025
+- [x] [ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools](https://arxiv.org/abs/2406.12793) 2024
+###### Gemma
 - [ ] [Gemma 3 Technical Report](https://arxiv.org/abs/2503.19786) [2025]
 - [ ] [Gemma 2: Improving Open Language Models at a Practical Size](https://arxiv.org/abs/2408.00118)【2024】
 - [ ] [Gemma: Open Models Based on Gemini Research and Technology](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)【2024】
+###### Gemini
+- [ ] [Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities](https://arxiv.org/abs/2507.06261) 2025
+###### llama
+- [ ] [Evolution of meta's llama models and parameter-efficient fine-tuning of large language models: a survey](https://arxiv.org/abs/2510.12178) 2025
+- [ ] [llama4](https://ai.meta.com/blog/llama-4-multimodal-intelligence/) 2025
+- [ ] [llama3](https://arxiv.org/abs/2407.21783)【2024】
+- [x] [llama2](https://arxiv.org/abs/2307.09288)【[代码](https://github.com/facebookresearch/llama)】【2023】
+- [x] [llama](https://arxiv.org/pdf/2302.13971v1.pdf)【[代码](https://github.com/facebookresearch/llama/tree/llama_v1)】【2023】
+###### 其它
+- [x] [TÜLU 3: Pushing Frontiers in Open Language Model Post-Training](https://allenai.org/papers/tulu-3-report.pdf)【[code](https://github.com/allenai/open-instruct)】【2024】
+- [x] [Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions](https://arxiv.org/abs/2411.14405)【[code](https://github.com/AIDC-AI/Marco-o1)】【2024】
 - [ ] [2 OLMo 2 Furious](https://arxiv.org/pdf/2501.00656)【2025】
 - [ ] [OLMo: Accelerating the Science of Language Models](https://arxiv.org/pdf/2402.00838.pdf)【[code](https://github.com/allenai/OLMo)】【2024】
 - [ ] [2x Faster Language Model Pre-training via Masked Structural Growth](https://arxiv.org/abs/2305.02869)【2023】
@@ -25,15 +46,11 @@
 - [ ] [Research without Re-search: Maximal Update Parametrization Yields Accurate Loss Prediction across Scales](https://arxiv.org/abs/2304.06875)【[code](https://github.com/cofe-ai/Mu-scaling)】【2023】
 - [x] [FLM-101B: An Open LLM and How to Train It with $100K Budget](https://arxiv.org/pdf/2309.03852.pdf)【[code](https://huggingface.co/CofeAI/FLM-101B)】【2023】
 - [x] [Baichuan2](https://cdn.baichuan-ai.com/paper/Baichuan2-technical-report.pdf)【[code](https://github.com/baichuan-inc/Baichuan2)】【2023】
-- [ ] [llama3](https://arxiv.org/abs/2407.21783)【2024】
-- [x] [llama2](https://arxiv.org/abs/2307.09288)【[代码](https://github.com/facebookresearch/llama)】【2023】
-- [x] [llama](https://arxiv.org/pdf/2302.13971v1.pdf)【[代码](https://github.com/facebookresearch/llama/tree/llama_v1)】【2023】
 - [x] opt 训练日志编年史【[Chronicles ](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/chronicles/README.md)】【2022】
 - [ ] [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)【2022】
 - [ ] [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)【[code](https://github.com/microsoft/mup)】【2022】
 - [ ] [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)【2020】
 - [ ] [Scaling Laws for Autoregressive Generative Modeling](https://arxiv.org/abs/2010.14701)【2020】
-
 
 #### 二、对齐
 - [ ] [Reward Hacking in Reinforcement Learning](https://lilianweng.github.io/posts/2024-11-28-reward-hacking/#in-context-reward-hacking)
