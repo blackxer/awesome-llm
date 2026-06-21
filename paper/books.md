@@ -1,4 +1,5 @@
 - [Hands-On Generative AI with Transformers and Diffusion Models](https://books.google.com.hk/books/about/Hands_On_Generative_AI_with_Transformers.html?id=PR220AEACAAJ&redir_esc=y)
+- [The Principles of Diffusion Models](https://arxiv.org/pdf/2510.21890)
 - [Current Best Practices for Training LLMs from Scratch](https://wandb.ai/site/wp-content/uploads/2023/09/Current-Best-Practices-for-Training-LLMs-from-Scratch-Final.pdf)
 - [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
 - [ML Retreat: Advanced ML Learning Journal](https://github.com/hesamsheikh/ml-retreat)
@@ -6,3 +7,6 @@
 - [自然语言处理：大模型理论与实践](https://nlp-book.swufenlp.group/)
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch.git)
 - [LLMs-from-scratch中文版](https://github.com/MLNLP-World/LLMs-from-scratch-CN.git)
+- [Hello-Agents](https://github.com/datawhalechina/Hello-Agents)
+- [Hugging Face 大规模实战手册](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview)
+- [HuggingFace 大模型训练指南](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)

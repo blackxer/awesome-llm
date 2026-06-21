@@ -2,6 +2,7 @@
 
 #### 一、预训练
 ###### Qwen
+- [ ] [Qwen3-VL Technical Report](https://arxiv.org/pdf/2511.21631) 2025
 - [ ] [Qwen3](https://qwenlm.github.io/blog/qwen3/)【2025】
 - [ ] [QwQ](https://qwenlm.github.io/blog/qwq-32b-preview/)【2024】
 - [x] [Qwen 2.5](https://arxiv.org/abs/2412.15115)【2024】
@@ -9,9 +10,27 @@
 - [x] [Qwen 1.5](https://qwenlm.github.io/blog/qwen1.5/)【2024】
 - [x] [Qwen 1](https://arxiv.org/pdf/2309.16609)【2023】
 ###### DeepSeek
+- [ ] [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://arxiv.org/abs/2606.19348) 2026
+- [ ] [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/abs/2512.02556) 2025
 - [ ] [DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/DeepSeek_V3_2.pdf) 2025
 - [ ] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)【2025】
 - [ ] [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)【2025】
+- [ ] [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434) 2024
+- [ ] [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/abs/2401.06066) 2024
+- [ ] [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954) 2024
+- [ ] [DeepSeek-OCR 2: Visual Causal Flow](https://arxiv.org/abs/2601.20552) 2026
+- [ ] [DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR/blob/main/DeepSeek_OCR_paper.pdf) 2025
+- [ ] [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://arxiv.org/abs/2511.22570) 2025
+- [ ] [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300) 2024
+- [ ] [DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/abs/2412.10302) 2024
+- [ ] [DeepSeek-VL: Towards Real-World Vision-Language Understanding](https://arxiv.org/abs/2403.05525) 2024
+- [ ] [DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition](https://arxiv.org/abs/2504.21801) 2025
+- [ ] [DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](https://arxiv.org/abs/2408.08152) 2024
+- [ ] [Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling](https://arxiv.org/abs/2501.17811) 2025
+- [ ] [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2410.13848) 2024
+- [ ] [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2411.07975) 2024
+- [ ] [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/abs/2406.11931) 2024
+- [ ] [DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence](https://arxiv.org/abs/2401.14196) 2024
 ###### Kimi
 - [ ] [Kimi k2 thinking](https://moonshotai.github.io/Kimi-K2/thinking.html) 2025
 - [ ] [Kimi K2: Open Agentic Intelligence](https://www.arxiv.org/abs/2507.20534) 2025
@@ -53,6 +72,7 @@
 - [ ] [Scaling Laws for Autoregressive Generative Modeling](https://arxiv.org/abs/2010.14701)【2020】
 
 #### 二、对齐
+- [ ] [Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning](https://arxiv.org/abs/2511.14617) 2025
 - [ ] [Reward Hacking in Reinforcement Learning](https://lilianweng.github.io/posts/2024-11-28-reward-hacking/#in-context-reward-hacking)
 - [ ] [IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization](https://arxiv.org/abs/2411.06208)【2024】
 - [ ] [O1 Replication Journey -- Part 2: Surpassing O1-preview through Simple Distillation, Big Progress or Bitter Lesso](https://arxiv.org/abs/2411.16489)【2024】
@@ -157,6 +177,16 @@
 
 
 #### 九、Agent
+- [ ] [AgentEvolver: Towards Efficient Self-Evolving Agent System](https://arxiv.org/abs/2511.10395) 2025
+- [ ] [Scaling Agent Learning via Experience Synthesis](https://arxiv.org/abs/2511.03773) 2025
+- [ ] [Agent Learning via Early Experience](https://arxiv.org/abs/2510.08558) 2025
+- [ ] [Mem-α: Learning Memory Construction via Reinforcement Learning](https://arxiv.org/abs/2509.25911) 2025
+- [ ] [UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist](https://arxiv.org/abs/2511.08521) 2025
+- [ ] [Beyond ReAct: A Planner-Centric Framework for Complex Tool-Augmented LLM Reasoning](https://arxiv.org/pdf/2511.10037) 2025
+- [ ] [ReCode: Unify Plan and Action for Universal Granularity Control](https://arxiv.org/abs/2510.23564)
+- [ ] [ReCAP: Recursive Context-Aware Reasoning and Planning for Large Language Model Agents](https://arxiv.org/abs/2510.23822) 2025
+- [ ] [From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538) 2025
+- [ ] [MemOS: A Memory OS for AI System](https://arxiv.org/abs/2507.03724) 2025
 - [ ] [Memory OS of AI Agent](https://arxiv.org/abs/2506.06326) 2025
 - [ ] [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) 2025
 - [ ] [τ^2-Bench: Evaluating Conversational Agents in a Dual-Control Environment](https://arxiv.org/abs/2506.07982) 2025
