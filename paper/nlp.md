@@ -1,7 +1,16 @@
 # 基础模型
 
 #### 一、预训练
+###### MiniCPM
+- [ ] [MiniCPM-o 4.5: Towards Real-Time Full-Duplex Omni-Modal Interaction](https://arxiv.org/abs/2604.27393) 2026
+- [ ] [Data Science and Technology Towards AGI Part I: Tiered Data Management](https://arxiv.org/abs/2602.09003) 2026
+- [ ] [MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe](https://arxiv.org/abs/2509.18154) 2025
+- [ ] [MiniCPM4: Ultra-Efficient LLMs on End Devices](https://arxiv.org/abs/2506.07900) 2025
+- [ ] [MiniCPM-V: A GPT-4V Level MLLM on Your Phone](https://arxiv.org/abs/2408.01800) 2024
+- [ ] [MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://arxiv.org/abs/2404.06395) 2024
+
 ###### Qwen
+- [ ] [On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability](https://arxiv.org/abs/2608.30320) 2026
 - [ ] [Qwen3-VL Technical Report](https://arxiv.org/pdf/2511.21631) 2025
 - [ ] [Qwen3](https://qwenlm.github.io/blog/qwen3/)【2025】
 - [ ] [QwQ](https://qwenlm.github.io/blog/qwq-32b-preview/)【2024】
@@ -10,6 +19,8 @@
 - [x] [Qwen 1.5](https://qwenlm.github.io/blog/qwen1.5/)【2024】
 - [x] [Qwen 1](https://arxiv.org/pdf/2309.16609)【2023】
 ###### DeepSeek
+- [ ] [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf)
+ 2026
 - [ ] [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://arxiv.org/abs/2606.19348) 2026
 - [ ] [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/abs/2512.02556) 2025
 - [ ] [DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/DeepSeek_V3_2.pdf) 2025
@@ -40,14 +51,25 @@
 - [ ] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599) 2025
 - [ ] [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://arxiv.org/abs/2407.00079) 2024
 ###### GLM
+- [ ] [GLM-5 Technical Report](https://arxiv.org/abs/2602.14964) 2026
+- [ ] [GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006) 2025
 - [ ] [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471) 2025
 - [x] [ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools](https://arxiv.org/abs/2406.12793) 2024
+- [ ] [GLM-130B: An Open Bilingual Pre-Trained Model](https://arxiv.org/abs/2210.02414) 2022
+- [ ] [GLM: General Language Model Pretraining with Autoregressive Blank Infilling](https://arxiv.org/abs/2103.10360) 2021
 ###### Gemma
+- [ ] [Gemma 4 Technical Report](https://arxiv.org/abs/2607.02770) 2026
 - [ ] [Gemma 3 Technical Report](https://arxiv.org/abs/2503.19786) [2025]
 - [ ] [Gemma 2: Improving Open Language Models at a Practical Size](https://arxiv.org/abs/2408.00118)【2024】
 - [ ] [Gemma: Open Models Based on Gemini Research and Technology](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)【2024】
 ###### Gemini
+- [ ] [Gemini 3 Pro Model Card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf) 2025
 - [ ] [Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities](https://arxiv.org/abs/2507.06261) 2025
+- [ ] [Gemini 2.5 Pro Preview Model Card](https://storage.googleapis.com/model-cards/documents/gemini-2.5-pro-preview.pdf) 2025
+- [ ] [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://arxiv.org/abs/2403.05530) 2024
+- [ ] [Gemini 2.0: Next generation of multimodal AI models](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/) 2024
+- [ ] [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/abs/2312.11805) 2023
+
 ###### llama
 - [ ] [Evolution of meta's llama models and parameter-efficient fine-tuning of large language models: a survey](https://arxiv.org/abs/2510.12178) 2025
 - [ ] [llama4](https://ai.meta.com/blog/llama-4-multimodal-intelligence/) 2025
