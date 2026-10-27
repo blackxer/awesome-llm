@@ -1,15 +1,14 @@
-# 基础模型
+# 1. 基础模型
 
-## 一、预训练
-### MiniCPM
+## 1.1. 预训练
+### 1.1.1. MiniCPM
 - [ ] [MiniCPM-o 4.5: Towards Real-Time Full-Duplex Omni-Modal Interaction](https://arxiv.org/abs/2604.27393) 2026
 - [ ] [Data Science and Technology Towards AGI Part I: Tiered Data Management](https://arxiv.org/abs/2602.09003) 2026
 - [ ] [MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe](https://arxiv.org/abs/2509.18154) 2025
 - [ ] [MiniCPM4: Ultra-Efficient LLMs on End Devices](https://arxiv.org/abs/2506.07900) 2025
 - [ ] [MiniCPM-V: A GPT-4V Level MLLM on Your Phone](https://arxiv.org/abs/2408.01800) 2024
 - [ ] [MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://arxiv.org/abs/2404.06395) 2024
-
-### Qwen
+### 1.1.2. Qwen
 - [ ] [On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability](https://arxiv.org/abs/2608.30320) 2026
 - [ ] [Qwen3-VL Technical Report](https://arxiv.org/pdf/2511.21631) 2025
 - [ ] [Qwen3](https://qwenlm.github.io/blog/qwen3/)【2025】
@@ -18,7 +17,8 @@
 - [x] [Qwen 2](https://arxiv.org/pdf/2407.10671)【2024】
 - [x] [Qwen 1.5](https://qwenlm.github.io/blog/qwen1.5/)【2024】
 - [x] [Qwen 1](https://arxiv.org/pdf/2309.16609)【2023】
-### DeepSeek
+### 1.1.3. DeepSeek
+- [ ] [DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale](https://arxiv.org/abs/2609.22978) — 2026
 - [ ] [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf)
  2026
 - [ ] [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://arxiv.org/abs/2606.19348) 2026
@@ -42,7 +42,7 @@
 - [ ] [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2411.07975) 2024
 - [ ] [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/abs/2406.11931) 2024
 - [ ] [DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence](https://arxiv.org/abs/2401.14196) 2024
-### Kimi
+### 1.1.4. Kimi
 - [ ] [Kimi k2 thinking](https://moonshotai.github.io/Kimi-K2/thinking.html) 2025
 - [ ] [Kimi K2: Open Agentic Intelligence](https://www.arxiv.org/abs/2507.20534) 2025
 - [ ] [Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2504.11354) 2025
@@ -50,33 +50,39 @@
 - [ ] [MoBA: Mixture of Block Attention for Long-Context LLMs](https://arxiv.org/abs/2502.13189) 2025
 - [ ] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599) 2025
 - [ ] [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://arxiv.org/abs/2407.00079) 2024
-### GLM
+### 1.1.5. GLM
 - [ ] [GLM-5 Technical Report](https://arxiv.org/abs/2602.14964) 2026
 - [ ] [GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006) 2025
 - [ ] [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471) 2025
 - [x] [ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools](https://arxiv.org/abs/2406.12793) 2024
 - [ ] [GLM-130B: An Open Bilingual Pre-Trained Model](https://arxiv.org/abs/2210.02414) 2022
 - [ ] [GLM: General Language Model Pretraining with Autoregressive Blank Infilling](https://arxiv.org/abs/2103.10360) 2021
-### Gemma
+### 1.1.6. Gemma
 - [ ] [Gemma 4 Technical Report](https://arxiv.org/abs/2607.02770) 2026
 - [ ] [Gemma 3 Technical Report](https://arxiv.org/abs/2503.19786) [2025]
 - [ ] [Gemma 2: Improving Open Language Models at a Practical Size](https://arxiv.org/abs/2408.00118)【2024】
 - [ ] [Gemma: Open Models Based on Gemini Research and Technology](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)【2024】
-### Gemini
+### 1.1.7. Gemini
 - [ ] [Gemini 3 Pro Model Card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf) 2025
 - [ ] [Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities](https://arxiv.org/abs/2507.06261) 2025
 - [ ] [Gemini 2.5 Pro Preview Model Card](https://storage.googleapis.com/model-cards/documents/gemini-2.5-pro-preview.pdf) 2025
 - [ ] [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://arxiv.org/abs/2403.05530) 2024
 - [ ] [Gemini 2.0: Next generation of multimodal AI models](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/) 2024
 - [ ] [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/abs/2312.11805) 2023
-
-### llama
+### 1.1.8. llama
 - [ ] [Evolution of meta's llama models and parameter-efficient fine-tuning of large language models: a survey](https://arxiv.org/abs/2510.12178) 2025
 - [ ] [llama4](https://ai.meta.com/blog/llama-4-multimodal-intelligence/) 2025
 - [ ] [llama3](https://arxiv.org/abs/2407.21783)【2024】
 - [x] [llama2](https://arxiv.org/abs/2307.09288)【[代码](https://github.com/facebookresearch/llama)】【2023】
 - [x] [llama](https://arxiv.org/pdf/2302.13971v1.pdf)【[代码](https://github.com/facebookresearch/llama/tree/llama_v1)】【2023】
-### 其它
+### 1.1.9. Phi
+- [ ] [Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs](https://arxiv.org/abs/2503.01743) — 2025
+- [ ] [Phi-4 Technical Report](https://arxiv.org/abs/2412.08905) — 2024
+- [ ] [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://arxiv.org/abs/2404.14219) — 2024
+- [ ] [Textbooks Are All You Need II: phi-1.5 Technical Report](https://arxiv.org/abs/2309.05463) — 2023
+- [ ] [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644) — 2023（phi-1）
+- [ ] [Phi-2: The Surprising Power of Small Language Models](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/) — 2023（微软研究博客，非 arXiv）
+### 1.1.10. 其它
 - [x] [TÜLU 3: Pushing Frontiers in Open Language Model Post-Training](https://allenai.org/papers/tulu-3-report.pdf)【[code](https://github.com/allenai/open-instruct)】【2024】
 - [x] [Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions](https://arxiv.org/abs/2411.14405)【[code](https://github.com/AIDC-AI/Marco-o1)】【2024】
 - [ ] [2 OLMo 2 Furious](https://arxiv.org/pdf/2501.00656)【2025】
@@ -93,7 +99,7 @@
 - [ ] [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)【2020】
 - [ ] [Scaling Laws for Autoregressive Generative Modeling](https://arxiv.org/abs/2010.14701)【2020】
 
-## 二、对齐
+## 1.2. RLHF
 - [ ] [Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning](https://arxiv.org/abs/2511.14617) 2025
 - [ ] [Reward Hacking in Reinforcement Learning](https://lilianweng.github.io/posts/2024-11-28-reward-hacking/#in-context-reward-hacking)
 - [ ] [IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization](https://arxiv.org/abs/2411.06208)【2024】
@@ -110,18 +116,16 @@
 - [ ] A Minimaximalist Approach to Reinforcement Learning from Human Feedback【[paper](https://arxiv.org/abs/2401.04056)】【2024】
 
 
-## 三、大模型里的小模型😂
+## 1.3. 大模型里的小模型😂
 - [ ] [从零训练 Steel-LLM](https://github.com/zhanshijinwat/Steel-LLM/tree/main)【2024】
 - [ ] A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness【[paper](https://arxiv.org/abs/2411.03350)】【[code](https://github.com/FairyFali/SLMs-Survey)】【2024】
 - [ ] MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases【[paper](https://arxiv.org/pdf/2402.14905.pdf)】【2024】
-- [ ] MiniCPM：Unveiling the Potential of End-side Large Language Models【[paper](https://shengdinghu.notion.site/MiniCPM-c805a17c5c8046398914e47f0542095a)】【[code](https://github.com/OpenBMB/MiniCPM)】【2024】
 - [ ] SliceGPT: Compress Large Language Models by Deleting Rows and Columns【[paper](https://arxiv.org/pdf/2401.15024.pdf)】【2024】
 - [ ] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning【[paper](https://arxiv.org/abs/2310.06694)】【[code](https://xiamengzhou.github.io/sheared-llama/)】【2023】
-- [ ] Textbooks Are All You Need II: phi-1.5 technical report【[paper](https://arxiv.org/abs/2309.05463)】【】【2023】
 - [ ] TinyLlama-1.1B【[code](https://github.com/jzhang38/TinyLlama)】【2023】
 
 
-## 四、位置编码
+## 1.4. 位置编码
 - [ ] [ROUND AND ROUND WE GO! WHAT MAKES ROTARY POSITIONAL ENCODINGS USEFUL?](https://arxiv.org/pdf/2410.06205)【2024】
 - [ ] YaRN: Efficient Context Window Extension of Large Language Models【[paper](https://arxiv.org/abs/2309.00071)】【[code](https://github.com/jquesnelle/yarn)】【2023】
 - [ ] A length-extrapolatable transformer【[paper](https://arxiv.org/pdf/2212.10554.pdf)】【[code](https://github.com/sunyt32/torchscale)】【2022】
@@ -129,7 +133,7 @@
 - [ ] Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation 【[paper](https://arxiv.org/abs/2108.12409)】【[code](https://github.com/ofirpress/attention_with_linear_biases)】【2021】
 
 
-## 五、轻量微调
+## 1.5. 轻量微调
 - [ ] [Mechanistic Insights into LoRA: Layer Sparsity for Adaptive Fine-Tuning via Path Patching](https://arxiv.org/abs/2610.34756) — 2026
 - [ ] [Singular Geometry of Low-Rank Adaptation](https://arxiv.org/abs/2610.32854) — 2026
 - [ ] [Latent Space Factorization in LoRA](https://arxiv.org/abs/2510.19640) — 2025
@@ -148,9 +152,70 @@
 - [x] [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) 【[code](https://github.com/microsoft/LoRA)】 — 2021
 - [x] [Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning](https://arxiv.org/abs/2012.13255) — 2020
 - [x] [Measuring the Intrinsic Dimension of Objective Landscapes](https://arxiv.org/abs/1804.08838) — 2018
+## 1.6. 可解释性
+- [ ] Explainability for Large Language Models: A Survey【[paper](https://arxiv.org/abs/2309.01029)】【[code](https://github.com/hy-zhao23/Explainability-for-Large-Language-Models)】【2023】
+- [ ] Towards Monosemanticity: Decomposing Language Models With Dictionary Learning【[paper](https://transformer-circuits.pub/2023/monosemantic-features/index.html)】【2023】
 
 
-## 六、提示词工程
+## 1.7. Embedding
+- [ ] [Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models](https://arxiv.org/abs/2506.05176)【2025】
+- [ ] [Piccolo2: General Text Embedding with Multi-task Hybrid Loss Training](https://arxiv.org/abs/2405.06932)【2024】
+- [ ] Nomic Embed: Training a Reproducible Long Context Text Embedder【[paper](https://static.nomic.ai/reports/2024_Nomic_Embed_Text_Technical_Report.pdf)】【[code](https://github.com/nomic-ai/contrastors)】【2024】
+- [ ] BGE M3-Embedding: Multi-Lingual, Multi-Functionality,Multi-Granularity Text Embeddings Through Self-Knowledge Distillation【[paper](https://arxiv.org/pdf/2402.03216.pdf)】【[code](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/BGE_M3)】【2024】
+- [ ] Improving Text Embeddings with Large Language Models【[paper](https://arxiv.org/pdf/2401.00368.pdf)】【2024】
+- [ ] Matryoshka Representation Learning 【[paper](https://arxiv.org/pdf/2205.13147.pdf)】【[code](https://github.com/RAIVNLab/MRL)】【2022】
+- [ ] Retrieve Anything To Augment Large Language Models (BGE2)【[paper](https://arxiv.org/pdf/2310.07554.pdf)】【[code](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/llm_embedder)】【2023】
+
+
+## 1.8. 多模态
+- [ ] [Qwen-Image Technical Report](https://arxiv.org/abs/2508.02324) [2025]
+- [ ] [GLM-4.1V-Thinking and GLM-4.5V: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006) [2025]
+- [ ] [Kimi-VL Technical Report](https://arxiv.org/abs/2504.07491)【2025】
+- [ ] [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)【2024】
+- [ ] [Stable Diffusion 3: Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://stabilityai-public-packages.s3.us-west-2.amazonaws.com/Stable+Diffusion+3+Paper.pdf)【2024】
+- [ ] [II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2406.05862)【2024】
+- [ ] [An Introduction to Vision-Language Modeling](https://arxiv.org/pdf/2405.17247)【2024】
+- [ ] World Model on Million-Length Video And Language With RingAttention【[paper](https://arxiv.org/abs/2402.08268)】【[code](https://github.com/LargeWorldModel/LWM)】【2024】
+- [ ] Bunny【paper待更新】【[code](https://github.com/BAAI-DCAI/Bunny)】【2024】
+- [ ] MoE-LLaVA: Mixture of Experts for Large Vision-Language Models【[paper](https://arxiv.org/abs/2401.15947)】【[code](https://github.com/PKU-YuanGroup/MoE-LLaVA)】【2024】
+- [ ] Small Language Model Meets with Reinforced Vision Vocabulary【[paper](https://arxiv.org/abs/2401.12503)】【[code](https://github.com/Ucas-HaoranWei/Vary-toy)】【2024】
+- [ ] [DALL·E 3](https://cdn.openai.com/papers/dall-e-3.pdf)【2023】
+- [ ] Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action【[paper](https://arxiv.org/abs/2312.17172)】【[code](https://github.com/allenai/unified-io-2)】【2023】
+- [ ] ImageBind: One Embedding Space To Bind Them All【[paper](http://arxiv.org/pdf/2305.05665.pdf)】【[code](http://github.com/facebookresearch/ImageBind)】【2023】
+- [ ] LLaVA: Large Language and Vision Assistant【[paper](https://arxiv.org/abs/2310.03744)】【[code](https://github.com/haotian-liu/LLaVA)】【2023】
+- [ ] MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens【[paper](https://browse.arxiv.org/pdf/2310.02239v1.pdf)】【[code](https://github.com/eric-ai-lab/MiniGPT-5)】【2023】
+- [ ] Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization【[paper](https://arxiv.org/abs/2309.04669)】【[code](https://github.com/jy0205/LaVIT)】【2023】
+- [ ] Learning Transferable Visual Models From Natural Language Supervision (clip)【[paper](https://arxiv.org/abs/2103.00020)】【[code](https://github.com/OpenAI/CLIP)】【2021】
+https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
+
+## 1.9. 综述
+- [ ] A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications【[paper](https://arxiv.org/abs/2402.07927)】【2024】
+- [ ] Large Language Models: A Survey【[paper](https://arxiv.org/pdf/2402.06196.pdf)】【2024】
+- [ ] MM-LLMs: Recent Advances in MultiModal Large Language Models【[paper](https://arxiv.org/abs/2401.13601)】【2024】
+- [ ] The What, Why, and How of Context Length Extension Techniques in Large Language Models – A Detailed Survey【[paper](https://arxiv.org/pdf/2401.07872.pdf)】【2024】
+- [ ] A Survey on Data Augmentation in Large Model Era【[paper](https://export.arxiv.org/abs/2401.15422)】【[code](https://github.com/MLGroup-JLU/LLM-data-aug-survey)】【2024】
+- [ ] [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549)【[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)】【2023】
+- [ ] A Survey of Large Language Models【[paper](https://arxiv.org/abs/2303.18223)】[code](https://github.com/RUCAIBox/LLMSurvey)】【2023】
+- [ ] Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models【[paper](http://arxiv.org/abs/2308.14149)】【[code](https://github.com/GPT-Alternatives/gpt_alternatives)】【2023】
+
+## 1.10. 推理加速
+### 1.10.1. 量化
+- [ ] [AQLM: Extreme Compression of Large Language Models via Additive Quantization](https://arxiv.org/abs/2401.06118) — 2024
+- [ ] [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978) — 2023
+- [ ] [HQQ: Half-Quadratic Quantization of Large Machine Learning Models](https://mobiusml.github.io/hqq_blog/) — 2023（博客发布，非 arXiv）
+- [ ] [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323) — 2022
+- [ ] [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339) — 2022 
+- [ ] [8-bit Optimizers via Block-wise Quantization](https://arxiv.org/abs/2110.02861) — 2021
+### 1.10.2. 加速
+- [ ] [Liger Kernel: Efficient Triton Kernels for LLM Training](https://arxiv.org/abs/2410.10989) — 2024
+- [ ] [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision](https://arxiv.org/abs/2407.08608) — 2024
+- [ ] [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) — 2023
+- [ ] [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) — 2022
+- [ ] [Unsloth](https://github.com/unslothai/unsloth) — 2023（开源库，无 arXiv 论文）
+
+
+# 2. 数据工程
+## 2.1. 提示词工程
 - [ ] [Evolving Deeper LLM Thinking](https://arxiv.org/abs/2501.09891)【2025】
 - [ ] [From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge](https://arxiv.org/abs/2411.16594)【2024】
 - [ ] [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769)【2024】
@@ -183,12 +248,12 @@
 - [ ] Tab-CoT: Zero-shot Tabular Chain of Thought【[paper](https://arxiv.org/pdf/2305.17812.pdf)】【2023】
 - [ ] Language Models are Few-Shot Learners【[paper](https://arxiv.org/abs/2005.14165v4)】【2020】
 
-## 七、预训练数据
+## 2.2. 预训练数据
 - [ ] [CCI3.0-HQ 中文数据集](https://arxiv.org/abs/2410.18505)【2024】
 - [ ] [A Survey on Data Synthesis and Augmentation for Large Language Models](https://arxiv.org/abs/2410.12896)【2024】
 
 
-## 八、指令数据集生成
+## 2.3. 指令数据集生成
 - [ ] [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/pdf/2406.20094);[code](https://github.com/tencent-ailab/persona-hub);2024
 - [ ] [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models](https://huggingface.co/papers/2406.13542);[code](https://github.com/QwenLM/AutoIF)【2024】
 - [ ] [Best Practices and Lessons Learned on Synthetic Data for Language Models](https://arxiv.org/abs/2404.07503)【2024】
@@ -211,8 +276,8 @@
 - [ ] Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor【[paper](https://arxiv.org/abs/2212.09689)】【2022】
 - [ ] Self-Instruct: Aligning Language Models with Self-Generated Instructions【[paper](https://arxiv.org/abs/2212.10560)】【2022】
 
-
-## 九、Agent
+# 3. 应用
+## 3.1. Agent
 - [ ] [AgentEvolver: Towards Efficient Self-Evolving Agent System](https://arxiv.org/abs/2511.10395) 2025
 - [ ] [Scaling Agent Learning via Experience Synthesis](https://arxiv.org/abs/2511.03773) 2025
 - [ ] [Agent Learning via Early Experience](https://arxiv.org/abs/2510.08558) 2025
@@ -235,7 +300,7 @@
 - [ ] The Rise and Potential of Large Language Model Based Agents: A Survey【[paper](https://arxiv.org/abs/2309.07864)】【[code](https://github.com/WooooDyy/LLM-Agent-Paper-List)】【2023】
 - [ ] ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models【[paper](https://arxiv.org/abs/2309.00986)】【[code](https://github.com/modelscope/modelscope-agent)】【2023】
 
-## RAG
+## 3.2. RAG
 - [ ] [RAGtifier: Evaluating RAG Generation Approaches of State-of-the-Art RAG Systems for the SIGIR LiveRAG Competition](https://arxiv.org/abs/2506.14412) 2025
 - [ ] [Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges](https://arxiv.org/abs/2504.15205) 2025
 - [ ] [A Comprehensive Survey of Retrieval-Augmented Generation (RAG) Evaluation and Benchmarks: Perspectives from Information Retrieval and LLM](https://www.researchgate.net/publication/396290953_A_Comprehensive_Survey_of_Retrieval-Augmented_Generation_RAG_Evaluation_and_Benchmarks_Perspectives_from_Information_Retrieval_and_LLM) 2025
@@ -245,59 +310,13 @@
 - [ ] [RAGentA: Multi-Agent Retrieval-Augmented Generation for Attributed Question Answering](https://arxiv.org/pdf/2506.16988v1) 2025
 - [ ] [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136) 2025
 
-## 十、可解释性
-- [ ] Explainability for Large Language Models: A Survey【[paper](https://arxiv.org/abs/2309.01029)】【[code](https://github.com/hy-zhao23/Explainability-for-Large-Language-Models)】【2023】
-- [ ] Towards Monosemanticity: Decomposing Language Models With Dictionary Learning【[paper](https://transformer-circuits.pub/2023/monosemantic-features/index.html)】【2023】
 
+# 4. 垂直领域
 
-## 十一、Embedding
-- [ ] [Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models](https://arxiv.org/abs/2506.05176)【2025】
-- [ ] [Piccolo2: General Text Embedding with Multi-task Hybrid Loss Training](https://arxiv.org/abs/2405.06932)【2024】
-- [ ] Nomic Embed: Training a Reproducible Long Context Text Embedder【[paper](https://static.nomic.ai/reports/2024_Nomic_Embed_Text_Technical_Report.pdf)】【[code](https://github.com/nomic-ai/contrastors)】【2024】
-- [ ] BGE M3-Embedding: Multi-Lingual, Multi-Functionality,Multi-Granularity Text Embeddings Through Self-Knowledge Distillation【[paper](https://arxiv.org/pdf/2402.03216.pdf)】【[code](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/BGE_M3)】【2024】
-- [ ] Improving Text Embeddings with Large Language Models【[paper](https://arxiv.org/pdf/2401.00368.pdf)】【2024】
-- [ ] Matryoshka Representation Learning 【[paper](https://arxiv.org/pdf/2205.13147.pdf)】【[code](https://github.com/RAIVNLab/MRL)】【2022】
-- [ ] Retrieve Anything To Augment Large Language Models (BGE2)【[paper](https://arxiv.org/pdf/2310.07554.pdf)】【[code](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/llm_embedder)】【2023】
-
-
-## 十二、多模态
-- [ ] [Qwen-Image Technical Report](https://arxiv.org/abs/2508.02324) [2025]
-- [ ] [GLM-4.1V-Thinking and GLM-4.5V: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006) [2025]
-- [ ] [Kimi-VL Technical Report](https://arxiv.org/abs/2504.07491)【2025】
-- [ ] [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)【2024】
-- [ ] [Stable Diffusion 3: Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://stabilityai-public-packages.s3.us-west-2.amazonaws.com/Stable+Diffusion+3+Paper.pdf)【2024】
-- [ ] [II-Bench: An Image Implication Understanding Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2406.05862)【2024】
-- [ ] [An Introduction to Vision-Language Modeling](https://arxiv.org/pdf/2405.17247)【2024】
-- [ ] World Model on Million-Length Video And Language With RingAttention【[paper](https://arxiv.org/abs/2402.08268)】【[code](https://github.com/LargeWorldModel/LWM)】【2024】
-- [ ] Bunny【paper待更新】【[code](https://github.com/BAAI-DCAI/Bunny)】【2024】
-- [ ] MoE-LLaVA: Mixture of Experts for Large Vision-Language Models【[paper](https://arxiv.org/abs/2401.15947)】【[code](https://github.com/PKU-YuanGroup/MoE-LLaVA)】【2024】
-- [ ] Small Language Model Meets with Reinforced Vision Vocabulary【[paper](https://arxiv.org/abs/2401.12503)】【[code](https://github.com/Ucas-HaoranWei/Vary-toy)】【2024】
-- [ ] [DALL·E 3](https://cdn.openai.com/papers/dall-e-3.pdf)【2023】
-- [ ] Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action【[paper](https://arxiv.org/abs/2312.17172)】【[code](https://github.com/allenai/unified-io-2)】【2023】
-- [ ] ImageBind: One Embedding Space To Bind Them All【[paper](http://arxiv.org/pdf/2305.05665.pdf)】【[code](http://github.com/facebookresearch/ImageBind)】【2023】
-- [ ] LLaVA: Large Language and Vision Assistant【[paper](https://arxiv.org/abs/2310.03744)】【[code](https://github.com/haotian-liu/LLaVA)】【2023】
-- [ ] MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens【[paper](https://browse.arxiv.org/pdf/2310.02239v1.pdf)】【[code](https://github.com/eric-ai-lab/MiniGPT-5)】【2023】
-- [ ] Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization【[paper](https://arxiv.org/abs/2309.04669)】【[code](https://github.com/jy0205/LaVIT)】【2023】
-- [ ] Learning Transferable Visual Models From Natural Language Supervision (clip)【[paper](https://arxiv.org/abs/2103.00020)】【[code](https://github.com/OpenAI/CLIP)】【2021】
-https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
-
-## 综述
-- [ ] A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications【[paper](https://arxiv.org/abs/2402.07927)】【2024】
-- [ ] Large Language Models: A Survey【[paper](https://arxiv.org/pdf/2402.06196.pdf)】【2024】
-- [ ] MM-LLMs: Recent Advances in MultiModal Large Language Models【[paper](https://arxiv.org/abs/2401.13601)】【2024】
-- [ ] The What, Why, and How of Context Length Extension Techniques in Large Language Models – A Detailed Survey【[paper](https://arxiv.org/pdf/2401.07872.pdf)】【2024】
-- [ ] A Survey on Data Augmentation in Large Model Era【[paper](https://export.arxiv.org/abs/2401.15422)】【[code](https://github.com/MLGroup-JLU/LLM-data-aug-survey)】【2024】
-- [ ] [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549)【[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)】【2023】
-- [ ] A Survey of Large Language Models【[paper](https://arxiv.org/abs/2303.18223)】[code](https://github.com/RUCAIBox/LLMSurvey)】【2023】
-- [ ] Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models【[paper](http://arxiv.org/abs/2308.14149)】【[code](https://github.com/GPT-Alternatives/gpt_alternatives)】【2023】
-
-
-# 垂直领域
-
-## Text-to-SQL
+## 4.1. Text-to-SQL
 - [ ] [RSL-SQL: Robust Schema Linking in Text-to-SQL Generation](https://arxiv.org/abs/2411.00073)
 
-## 语音识别
+## 4.2. 语音识别
 - [ ] [Qwen-Audio-3.1-Realtime: Towards Reliable Agentic Voice Interaction](https://arxiv.org/abs/2609.25176) — 2026
 - [ ] [Qwen3-ASR Technical Report](https://arxiv.org/abs/2601.21337) — 2026
 - [ ] [Qwen2.5-Omni Technical Report](https://arxiv.org/abs/2503.20215) — 2025
@@ -306,14 +325,14 @@ https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 - [ ] [Kimi-Audio Technical Report](https://arxiv.org/abs/2504.18425)【2025】
 - [ ] [Dolphin: A Large-Scale Automatic Speech Recognition Model for Eastern Languages](https://arxiv.org/abs/2503.20212)【2025】
 
-## 语音合成
+## 4.3. 语音合成
 - [ ] [SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity](https://arxiv.org/pdf/2510.23541) 2025
 - [ ] [IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System](https://arxiv.org/abs/2502.05512)【2025】
 - [ ] [CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training](https://arxiv.org/abs/2505.17589)【2025】
 - [ ] [CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models](https://arxiv.org/abs/2412.10117)【2025】
 - [ ] [CosyVoice 1](https://funaudiollm.github.io/pdf/CosyVoice_v1.pdf)【2025】
 
-## 数字人
+## 4.4. 数字人
 - [ ] [EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation](https://arxiv.org/abs/2507.03905)【2025】
 - [ ] [EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation](https://arxiv.org/abs/2411.10061)【2024】
 - [ ] [EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions](https://arxiv.org/abs/2407.08136)【2024】
