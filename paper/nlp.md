@@ -99,7 +99,7 @@
 - [ ] [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)【2020】
 - [ ] [Scaling Laws for Autoregressive Generative Modeling](https://arxiv.org/abs/2010.14701)【2020】
 
-## 1.2. RLHF
+## 1.2. RLHF 后训练
 - [ ] [Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning](https://arxiv.org/abs/2511.14617) 2025
 - [ ] [Reward Hacking in Reinforcement Learning](https://lilianweng.github.io/posts/2024-11-28-reward-hacking/#in-context-reward-hacking)
 - [ ] [IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization](https://arxiv.org/abs/2411.06208)【2024】
@@ -248,12 +248,24 @@ https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 - [ ] Tab-CoT: Zero-shot Tabular Chain of Thought【[paper](https://arxiv.org/pdf/2305.17812.pdf)】【2023】
 - [ ] Language Models are Few-Shot Learners【[paper](https://arxiv.org/abs/2005.14165v4)】【2020】
 
-## 2.2. 预训练数据
-- [ ] [CCI3.0-HQ 中文数据集](https://arxiv.org/abs/2410.18505)【2024】
+## 2.2. 预训练数据集
 - [ ] [A Survey on Data Synthesis and Augmentation for Large Language Models](https://arxiv.org/abs/2410.12896)【2024】
+- [ ] [CCI4.0: A Bilingual Pretraining Dataset for Enhancing Reasoning in Large Language Models](https://arxiv.org/abs/2506.07463) — 2025
+- [ ] [OpenCSG Chinese Corpus: A Series of High-quality Chinese Datasets for LLM Training](https://arxiv.org/abs/2501.08197) — 2025
+- [ ] [Research on Key Methods for Extracting High-Quality Chinese Corpus Based on Common Crawl](https://ieeexplore.ieee.org/document/11033399) — 2025
+- [ ] [ChineseWebText 2.0: Large-Scale High-quality Chinese Web Text with Multi-dimensional and fine-grained information](https://arxiv.org/abs/2411.19668) — 2024
+- [ ] [WanJuan-CC: A Large-scale High-quality Chinese Web Text Dataset](https://arxiv.org/abs/2401.04537) — 2024
+- [ ] [ChineseWebText: Large-scale High-quality Chinese Web Text Extracted with Effective Evaluation Model](https://arxiv.org/abs/2311.01149) — 2023
+- [ ] [MNBVC (Massive Never-ending BT Vast Chinese corpus)](https://github.com/esbatmop/MNBVC) — 2023
+- [ ] [TigerBot](https://github.com/TigerResearch/TigerBot) — 2023
+- [ ] [WuDaoCorpora: A super large-scale Chinese corpora for pre-training language models](https://doi.org/10.1016/j.aiopen.2021.06.001) — 2021
+- [ ] [Ultra-FineWeb](https://huggingface.co/datasets/openbmb/Ultra-FineWeb) — 约 1T 英文 tokens + 120B 中文 tokens，基于验证的高质量网页过滤
+- [ ] [Ultra-FineWeb-L3](https://huggingface.co/datasets/openbmb/Ultra-FineWeb-L3) — 400B+ 英文 + 200B+ 中文 tokens，通过问答对生成与多风格改写构建的 L3 精炼数据
 
-
-## 2.3. 指令数据集生成
+## 2.3. SFT 数据集
+- [ ] [UltraChat](https://huggingface.co/datasets/openbmb/UltraChat) — 150 余万条多轮指令对话数据，由多个 ChatGPT API 互相对话生成
+- [ ] [UltraData-SFT-2605](https://huggingface.co/datasets/openbmb/UltraData-SFT-2605) — 15,036,178 条样本，含 Deep Thinking（约 649 万）与 Non-thinking（约 855 万）双轨标注，覆盖数学、代码、知识、指令遵循
+- [ ] [UltraData-SFT-Agent-2609](https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609) — 483,661 条 Agent 轨迹，覆盖 General-Agent、Tool-Use、Code-Agent、Search-Agent，为 MiniCPM5-2B 的核心 Agent SFT 数据
 - [ ] [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/pdf/2406.20094);[code](https://github.com/tencent-ailab/persona-hub);2024
 - [ ] [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models](https://huggingface.co/papers/2406.13542);[code](https://github.com/QwenLM/AutoIF)【2024】
 - [ ] [Best Practices and Lessons Learned on Synthetic Data for Language Models](https://arxiv.org/abs/2404.07503)【2024】
@@ -275,6 +287,9 @@ https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 - [ ] Training language models to follow instructions with human feedback(InstructGPT)【[paper](https://arxiv.org/abs/2203.02155)】【2022】
 - [ ] Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor【[paper](https://arxiv.org/abs/2212.09689)】【2022】
 - [ ] Self-Instruct: Aligning Language Models with Self-Generated Instructions【[paper](https://arxiv.org/abs/2212.10560)】【2022】
+
+## 2.4. 偏好数据集
+- [ ] [UltraFeedback](https://huggingface.co/datasets/openbmb/UltraFeedback) — 约 6.4 万条 prompt，GPT-4 从指令遵循、真实性、诚实性、有用性四个维度评分，可转为 chosen/rejected 对用于 DPO
 
 # 3. 应用
 ## 3.1. Agent
