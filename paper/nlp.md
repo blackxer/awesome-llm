@@ -189,6 +189,7 @@
 https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 
 ## 1.9. 综述
+- [ ] [Towards Next-Generation Architectures of Large Language Models: A Survey](https://www.preprints.org/manuscript/202610.1532) —— 2026
 - [ ] A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications【[paper](https://arxiv.org/abs/2402.07927)】【2024】
 - [ ] Large Language Models: A Survey【[paper](https://arxiv.org/pdf/2402.06196.pdf)】【2024】
 - [ ] MM-LLMs: Recent Advances in MultiModal Large Language Models【[paper](https://arxiv.org/abs/2401.13601)】【2024】
