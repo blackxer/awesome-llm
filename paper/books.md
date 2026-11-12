@@ -11,11 +11,15 @@
 # Agent 课程
 - datawhale 智能体系列课程
   1. - [ ] https://github.com/datawhalechina/hello-agents
+- Agent 自进化：
+  - 课程主页：https://cs329a.stanford.edu/• 
+  - 官方视频列表：https://www.youtube.com/playlist?list=PLangBM27OtEA
 
 # math 课程
 - [ ] https://github.com/datawhalechina/math-for-ai
 
 # 书籍
+- 强化学习数学基础：https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning
 - [Hands-On Generative AI with Transformers and Diffusion Models](https://books.google.com.hk/books/about/Hands_On_Generative_AI_with_Transformers.html?id=PR220AEACAAJ&redir_esc=y)
 - [The Principles of Diffusion Models](https://arxiv.org/pdf/2510.21890)
 - [Current Best Practices for Training LLMs from Scratch](https://wandb.ai/site/wp-content/uploads/2023/09/Current-Best-Practices-for-Training-LLMs-from-Scratch-Final.pdf)
