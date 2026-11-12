@@ -263,6 +263,7 @@ https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 - [ ] [Ultra-FineWeb-L3](https://huggingface.co/datasets/openbmb/Ultra-FineWeb-L3) — 400B+ 英文 + 200B+ 中文 tokens，通过问答对生成与多风格改写构建的 L3 精炼数据
 
 ## 2.3. SFT 数据集
+- [ ] [Easy Dataset: A Unified and Extensible Framework for Synthesizing LLM Fine-Tuning Data from Unstructured Documents](https://arxiv.org/abs/2507.04009) 2025
 - [ ] [UltraChat](https://huggingface.co/datasets/openbmb/UltraChat) — 150 余万条多轮指令对话数据，由多个 ChatGPT API 互相对话生成
 - [ ] [UltraData-SFT-2605](https://huggingface.co/datasets/openbmb/UltraData-SFT-2605) — 15,036,178 条样本，含 Deep Thinking（约 649 万）与 Non-thinking（约 855 万）双轨标注，覆盖数学、代码、知识、指令遵循
 - [ ] [UltraData-SFT-Agent-2609](https://huggingface.co/datasets/openbmb/UltraData-SFT-Agent-2609) — 483,661 条 Agent 轨迹，覆盖 General-Agent、Tool-Use、Code-Agent、Search-Agent，为 MiniCPM5-2B 的核心 Agent SFT 数据
@@ -325,10 +326,34 @@ https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 - [ ] [RAGentA: Multi-Agent Retrieval-Augmented Generation for Attributed Question Answering](https://arxiv.org/pdf/2506.16988v1) 2025
 - [ ] [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136) 2025
 
+## 3.3. Recursive Self-Improvement(RSI)
+- [ ] [Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data](https://arxiv.org/abs/2602.21320) — 2026（EMNLP Findings）
+- [ ] [RSI-Env: An Open-Ended Environment for Recursive Self-Improvement of Agents](https://arxiv.org/abs/2611.01736) — 2026
+- [ ] [Recursa: Toward Recursively Self-Improving Foundation Model Systems](https://huggingface.co/papers/2611.04035) — 2026
+- [ ] [RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments](https://arxiv.org/abs/2609.15364) — 2026
+- [ ] [SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://arxiv.org/abs/2602.08234) — 2026
+- [ ] [TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents](https://arxiv.org/abs/2608.22793) — 2026
+- [ ] [SkillAdam: Stable and Efficient Skill Evolution for Agents](https://arxiv.org/abs/2609.08944) — 2026
+- [ ] [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904) — 2026
+- [ ] [EvoAgentX: An Automated Framework for Evolving Agentic Workflows](https://arxiv.org/abs/2507.03616) — 2025
+- [ ] [A Contextual Generalization of Propositional Logic with Algorithmic Consequences](https://arxiv.org/abs/2510.04618) — 2025
+- [ ] [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409) — 2024
+- [ ] [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) — 2024
+- [ ] [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910) — 2023
+
 
 # 4. 垂直领域
 
 ## 4.1. Text-to-SQL
+- [ ] [TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas](https://arxiv.org/abs/2603.16448) — 2026（EMNLP Main）
+- [ ] [Human-Level Text-to-SQL via Reinforcement Learning on Verified Data, Without Pipeline Engineering](https://arxiv.org/abs/2603.20004) — 2026（v4，2026-08）
+- [ ] [Reimagining Text-to-SQL: A Survey of Large Language Model Architectures and Strategies](https://arxiv.org/abs/2611.00171) — 2026（综述）
+- [ ] [HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments](https://arxiv.org/abs/2610.12274) — 2026（arXiv v3，2026-10）
+- [ ] [MARS-SQL: A Multi-Agent Reinforcement Learning Framework for Text-to-SQL](https://arxiv.org/abs/2511.01008) — 2025（arXiv，2025-11）
+- [ ] [Arctic-Text2SQL-R1: Simple Rewards, Strong Reasoning in Text-to-SQL](https://arxiv.org/abs/2505.20315) — 2025（arXiv，2025-05）
+- [ ] [CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning](https://arxiv.org/abs/2505.13271) — 2025（arXiv v2，2025-06）
+- [ ] [OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale](https://arxiv.org/abs/2503.02240) — 2025（arXiv v2，2025-07）
+- [ ] [A Preview of XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL](https://arxiv.org/abs/2411.08599) — 2024（arXiv，2024-11）
 - [ ] [RSL-SQL: Robust Schema Linking in Text-to-SQL Generation](https://arxiv.org/abs/2411.00073)
 
 ## 4.2. 语音识别
